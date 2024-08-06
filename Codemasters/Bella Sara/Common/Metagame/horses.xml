@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Horses>
+    <Horse>
+        <Defines idname="Excelsior" haircol="Brown" texname="excelsiorbase" size="0.96" />
+        <Stats speed="4" agility="4" trust="2" stamina="3" jump="3" foodmod="20" watermod="20" happymod="20" appearancemod="20" />
+        <Abilities>
+            <Ability value="None" />
+        </Abilities>
+        <CardNeeds>
+            <MyCard value="ALCH01" />
+            <Card value="ALCH01" />
+            <Card value="ALCH02" />
+            <Card value="ALCH03" />
+            <Card value="ALCH04" />
+            <Card value="ALCH01" />
+        </CardNeeds>
+		<!--
+			valid values for locator attribute (defines to which part of the horse the particle emitter will attach to):
+				HorseLeftMiddleFinger1
+				HorseRightMiddleFinger1
+				HorseLeftMiddleToe
+				HorseRightMiddleToe
+				HorseHead
+				HorseNeck
+				HorseNeck1
+				HorseNeck2
+				HorseSpine1
+				HorseSpine2
+				HorseTail1
+				HorseTailEnd
+		-->
+		<ParticleEmitter locator="HorseSpine2" effect="contrail_effect_glitter" offsetVector="0, -.10, 0" velocityVector="0,0,1"/>
+		<ParticleEmitter locator="HorseSpine2" effect="contrail_effect_glitter2" offsetVector="0, -0.20, 0" velocityVector="0,1,0"/>
+		<ParticleEmitter locator="HorseSpine2" effect="Contrail_Excelsior1" offsetVector="0, -0.1, 0" velocityVector="0,0,1"/>
+		<ParticleEmitter locator="HorseSpine2" effect="Contrail_mist" offsetVector="0, -0.20, 0" velocityVector="0,1,0"/>		
+	
+    </Horse>
+    <Horse>
+        <Defines idname="Fiona" haircol="Red" texname="fionabase" size="0.98" />
+        <Stats speed="5" agility="4" trust="3" stamina="4" jump="3" foodmod="20" watermod="20" happymod="20" appearancemod="20" />
+        <Abilities>
+            <Ability value="LightFires" />
+        </Abilities>
+        <CardNeeds>
+            <MyCard value="B2FH08" />
+            <Card value="ALFH02" />
+            <Card value="ALFH03" />
+            <Card value="ALFH08" />
+            <Card value="ALFH11" />
+            <Card value="B2FH08" />
+        </CardNeeds>
+		<ParticleEmitter locator="HorseSpine2" effect="contrail_effect_glitter" offsetVector="0, -.10, 0" velocityVector="0,0,1"/>
+		<ParticleEmitter locator="HorseSpine2" effect="contrail_effect_glitter2" offsetVector="0, -0.20, 0" velocityVector="0,1,0"/>
+		<ParticleEmitter locator="HorseRightMiddleToe" effect="Contrail_Fiona1" offsetVector="0.1, 0.5, 1.3" velocityVector="0,0,1"/>
+		<ParticleEmitter locator="HorseLeftMiddleToe" effect="Contrail_Fiona1" offsetVector="-0.0, -0.0, 0.0" velocityVector="0,0,1"/>
+		<ParticleEmitter locator="HorseSpine2" effect="Contrail_mist" offsetVector="0, -0.20, 0" velocityVector="0,1,0"/>		
+	
+    </Horse>
+    <Horse>
+        <Defines idname="Jewel" haircol="Black" texname="jewelbase" size="1.00" />
+        <Stats speed="5" agility="4" trust="4" stamina="5" jump="3" foodmod="20" watermod="20" happymod="20" appearancemod="20" />
+        <Abilities>
+            <Ability value="Dig" />
+            <Ability value="OpenGate" />
+        </Abilities>
+        <CardNeeds>
+            <MyCard value="B2FH12" />
+            <Card value="ALFH12" />
+            <Card value="ALFH13" />
+            <Card value="NLFH15" />
+            <Card value="B2FH24" />
+            <Card value="B2FH12" />
+        </CardNeeds>
+		<ParticleEmitter locator="HorseSpine2" effect="contrail_effect_glitter" offsetVector="0, -.10, 0" velocityVector="0,0,1"/>
+		<ParticleEmitter locator="HorseSpine2" effect="contrail_effect_glitter2" offsetVector="0, -0.20, 0" velocityVector="0,1,0"/>
+		<ParticleEmitter locator="HorseSpine2" effect="Contrail_Jewel1" offsetVector="0, -0.1, 0" velocityVector="0,0,1"/>
+		<ParticleEmitter locator="HorseSpine2" effect="Contrail_mist" offsetVector="0, -0.20, 0" velocityVector="0,1,0"/>		
+
+    </Horse>
+    <Horse>
+        <Defines idname="Thunder" haircol="Black" texname="thunderbase" size="1.02" />
+        <Stats speed="6" agility="3" trust="4" stamina="5" jump="3" foodmod="20" watermod="20" happymod="20" appearancemod="20" />
+        <Abilities>
+            <Ability value="Smash" />
+        </Abilities>
+        <CardNeeds>
+            <MyCard value="NVFH15" />
+            <Card value="NLFH07" />
+            <Card value="NLFH16" />
+            <Card value="NLFH08" />
+            <Card value="B2FH15" />
+            <Card value="NVFH15" />
+        </CardNeeds>
+	<ParticleEmitter locator="HorseSpine2" effect="contrail_effect_glitter" offsetVector="0, -.10, 0" velocityVector="0,0,1"/>
+		<ParticleEmitter locator="HorseSpine2" effect="contrail_effect_glitter2" offsetVector="0, -0.20, 0" velocityVector="0,1,0"/> -->
+		<ParticleEmitter locator="HorseSpine2" effect="Contrail_Thunder1" offsetVector="0, -0.1, 0" velocityVector="0,0,1"/>
+		<ParticleEmitter locator="HorseSpine2" effect="Contrail_mist_thunder" offsetVector="0, -0.20, 0" velocityVector="0,1,0"/>
+	
+    </Horse>
+    <Horse>
+        <Defines idname="Bella" haircol="White" texname="bellabase" size="1.00" />
+        <Stats speed="5" agility="5" trust="5" stamina="5" jump="3" foodmod="20" watermod="20" happymod="20" appearancemod="20" />
+        <Abilities>
+            <Ability value="ClearFog" />
+        </Abilities>
+        <CardNeeds>
+            <MyCard value="B2FH03" />
+            <Card value="B2FH05" />
+            <Card value="B2FH15" />
+            <Card value="NLFH10" />
+            <Card value="B2FH01" />
+            <Card value="B2FH03" />
+        </CardNeeds>
+		<ParticleEmitter locator="HorseSpine2" effect="contrail_effect_glitter" offsetVector="0, -.10, 0" velocityVector="0,0,1"/>
+		<ParticleEmitter locator="HorseSpine2" effect="contrail_effect_glitter2" offsetVector="0, -0.20, 0" velocityVector="0,1,0"/>
+		<ParticleEmitter locator="HorseSpine2" effect="Contrail_Bella1" offsetVector="0, -0.1, 0" velocityVector="0,0,1"/>
+		<ParticleEmitter locator="HorseSpine2" effect="Contrail_mist" offsetVector="0, -0.20, 0" velocityVector="0,1,0"/>
+    </Horse>
+</Horses>
