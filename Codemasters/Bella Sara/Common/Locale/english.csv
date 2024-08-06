@@ -1,0 +1,2015 @@
+Identifier,English
+a_string,An example string.
+IDS_TooTiredHeader,Tired Horse
+LowResolution,Low
+MediumResolution,Medium
+HighResolution,High
+IDS_card_common,Common
+IDS_card_energy,Energy
+IDS_card_rare,Rare
+IDS_card_foil,Foil
+IDS_KeyboardUpperCase,ABCDEFGHIJKLMNOPQRSTUVWXYZ
+IDS_KeyboardLowerCase,abcdefghijklmnopqrstuvwxyz
+IDS_PreCardRaritysFound,Congratulations you have found
+IDS_PostCardRaritysFound,A new bonus code is available to you.
+IDSwac_alltrophies,All Trophies
+IDS_AllTrophiesCollected,"Congratulations, you have collected all the trophies and unlocked a new Bonus Code."
+IDS_Buy,Buy
+IDS_Enter,Enter
+IDS_Resolution,Resolution
+IDS_ResolutionChange,You will need  to restart the game for the changes to take effect.
+IDSwac_allchallenges,All Challenges
+IDSwac_common,All Common Cards
+IDSwac_rare,All Rare Cards
+IDSwac_energy,All Energy Cards
+IDSwac_foil,All Foil Cards
+IDSwac_allcards,All Cards
+IDSwac_Jewel,Find Jewel
+IDSwac_Fiona,Find Fiona
+IDSwac_Thunder,Find Thunder
+IDSwac_Bella,Find Bella
+IDS_CardNotUnlockedYet,You still need to find this card.
+IDS_TooTiredMessage,Your horse is tired. Go care for them in the paddock to make them feel better.
+CheckpointPlaceholder_77,The next checkpoint is where two rivers join up.
+CheckpointPlaceholder_78,The last checkpoint is down in the town.
+IDS_BonusCodes,Bonus Codes
+IDS_NewProfile,Create Profile
+ConfirmOption,Confirm
+CancelOption,Cancel
+Player,Player
+Continue,Continue
+profile_confirm,Are you sure you want to use this Profile?
+profile_confirm_copy,Are you sure you want to copy this Profile?
+profile_confirm_delete_confirm,Are you sure you want to delete this Profile?
+face_instructions,How would you like to appear in the game?
+IDS_ChooseLook,Choose your look
+IDS_Gender,Gender
+IDS_Appearance,Appearance
+IDS_HairTone,Hair Tone
+IDS_HairCol,Hair Colour
+IDS_SkinTone,Skin Tone
+IDS_EyeCol,Eye Colour
+IDS_EyeColour,Eye Colour
+IDS_NameEntry,Name Entry
+IDS_Backspace,Backspace
+IDS_Difficulty,Difficulty
+IDS_Easy,Easy
+IDS_Normal,Normal
+IDS_Hard,Hard
+IDS_EasyCaption,Jumping: Automatic
+IDS_NormalCaption,Jumping: Manual
+IDS_HardCaption,Jumping: Manual
+IDS_ConfirmRider,Confirm Rider
+IDS_ConfirmRiderCaption,Do you want to create this rider?
+IDS_Next,Next
+IDS_Rider,Rider
+IDS_Total,Total
+IDS_LookDesc,Be comfortable in the way you look.  Feel free to be whomever you want to be.
+IDS_EnterName,Enter your name
+IDS_AreYouHappy,Are you happy?
+IDS_ReadyForJourney,Are you ready to begin your journey?
+EffectsVolume,Sound Volume
+MusicVolume,Music Volume
+IDS_CardOfTheDay,Card of the Day
+Options,Options
+Audio,Sounds
+IDS_SelectProfile,Profiles
+Menu_WebCodes,Web Site Codes
+IDS_CreditsTitle,Credits
+IDS_OK,OK
+IDS_Cancel,Cancel
+Language,Language
+English,English
+German,German
+French,French
+Spanish,Spanish
+Italian,Italian
+Loading,Loading
+Yes,Yes
+No,No
+On,On
+Off,Off
+OK,OK
+Cancel,Cancel
+Paused,Paused
+Back,Back
+Quit,Quit
+AreYouSure,Are you sure?
+IDS_ReallyQuit,Quit
+IDS_SureToQuit,Are you sure?
+Display,Graphics
+Control,Control
+Easy,Easy
+Normal,Normal
+Hard,Hard
+Default,Default
+Play,Play
+Pause,Pause
+Menu,Menu
+Replay,Replay
+Location,Location
+Next,Next
+Any,Any
+Ready,Ready
+ResumeReplay,Resume Replay
+RestartReplay,Restart Replay
+QuitReplay,Quit Replay
+Exit,Exit
+Retry,Retry
+SkipReplay,Skip Replay
+Restart,Restart
+Resume,Resume
+Abandon,Return to Farm
+AbortReplay,Skip Replay
+MP_NextPlayer,Next Player
+MP_EndEvent,End Event
+CurrentProgressWillBeLost,Current progress will be lost!
+AspectRatio,Aspect Ratio
+Vibration,Vibration
+Vibration_Intensity,Vibration Intensity
+Difficulty,Difficulty
+SoundMode,Sound Mode
+SoundMode_Mono,Mono
+SoundMode_Stereo,Stereo
+SoundMode_Surround,Surround
+CheatsActivated,Cheats Activated
+Cheats,Cheats
+4By3,04:03
+3By2,03:02
+16By9,16:09
+5By3,05:03
+Music,Music
+Effects,Effects
+Speech,Speech
+Result,Result
+CrossCountry,Cross Country
+Time,Time
+TimeScore,Time Score
+Penalty,Penalties
+Presentation,Presentation
+TotalScore,Total Score
+ContinueOption,Continue
+RestartOption,Restart
+ReplyOption,Watch Replay
+SelectOption,Select
+GamePauseScreen,Game Options
+VibrationOn,Vibration On
+VibrationOff,Vibration Off
+FlyBySkipPrompt,Press %s to skip course flyby
+TutorialNextScreenPrompt,Press %s to continue
+IDS_TriangleButtonHudText,Gallop
+IDS_CircleButtonHudText,Jump
+IDS_CrossButtonHudText,Speed Up
+IDS_SquareButtonHudText,Slow Down
+IDS_R1ButtonHudText,Jump Look
+HudControlOption,Action Panel
+CrossCountryTraining,Cross Country Training:
+Training_Complete,Complete
+Training_Incomplete,Incomplete
+ConfirmOption,Confirm
+CancelOption,Cancel
+RestartConfirm,Confirm Restart?
+AbandonConfirm,Confirm Return?
+SkipReplayConfirm,Confirm Skip Replay?
+Generic_AutoSaveFailed,Failed to save game! Retry save?
+Generic_AutoLoadFailed,Failed to load game! The save game may be corrupt. Retry load?
+LoadingRideWithFriends,Loading Ride With Friends
+LoadingCrossCountryTraining,Loading Cross Country Training
+IDS_PressStartButton,Press START button
+IDS_PressSpaceBar,Press space bar
+IDS_MainMenu,Main Menu
+IDS_NewGame,New Game
+IDS_NewGameCaption,Create a new rider and start a new game
+IDS_ContinueGame,Continue Game
+IDS_ContinueGameCaption,Load an existing rider and game
+IDS_Options,Options
+IDS_OptionsCaption,Adjust your sound and graphics options
+IDS_Move,Move
+IDS_Confirm,Confirm
+IDS_Back,Back
+IDS_Cancel,Cancel
+IDS_Quit,Quit
+IDS_AreYouSure,Are you sure?
+IDS_SoundOptions,Sound Options
+IDS_MusicVolume,Music Volume
+IDS_EffectsVolume,Effects Volume
+IDS_SpeechVolume,Speech Volume
+IDS_GraphicsOptions,Graphics Options
+IDS_AspectRatio,Aspect Ratio
+IDS_Empty,Empty
+IDS_Profile1,Profile 1
+IDS_Profile2,Profile 2
+IDS_Profile3,Profile 3
+IDS_Profile4,Profile 4
+IDS_ConfirmOverwrite,Confirm Overwrite
+IDS_ConfirmOverwriteCaption,Overwrite the existing profile?
+IDS_ConfirmNewProf,Confirm Overwrite
+IDS_OverwriteProf,Overwrite the existing profile?
+IDS_Yes,Yes
+IDS_No,No
+IDS_CreateRider,Create Rider
+IDS_ControlSetup,Controller Setup
+IDS_Menus,Menus
+IDS_Riding,Riding
+IDS_Left,Left
+IDS_Right,Right
+IDS_LeftRightAnalog,Left/Right Analog
+IDS_SpeedUpSlowDownAnalog,Speed Up/Slow Down Analog
+IDS_Up,Up
+IDS_Down,Down
+IDS_Accept,Accept
+IDS_SkipFlyby,Skip Flyby
+PressButton,Press Button
+ControlConfigJoyX,X-axis
+ControlConfigJoyY,Y-axis
+ControlConfigJoyZ,Z-axis
+ControlConfigJoyXRot,X-rotation
+ControlConfigJoyYRot,Y-rotation
+ControlConfigJoyZRot,Z-rotation
+ControlConfigJoySlider,Slider
+ControlConfigJoyBut1,Button 1
+ControlConfigJoyBut2,Button 2
+ControlConfigJoyBut3,Button 3
+ControlConfigJoyBut4,Button 4
+ControlConfigJoyBut5,Button 5
+ControlConfigJoyBut6,Button 6
+ControlConfigJoyBut7,Button 7
+ControlConfigJoyBut8,Button 8
+ControlConfigJoyBut9,Button 9
+ControlConfigJoyBut10,Button 10
+ControlConfigJoyBut11,Button 11
+ControlConfigJoyBut12,Button 12
+ControlConfigJoyBut13,Button 13
+ControlConfigJoyBut14,Button 14
+ControlConfigJoyBut15,Button 15
+ControlConfigJoyBut16,Button 16
+ControlConfigJoyHatUp,Hat up
+ControlConfigJoyHatDown,Hat down
+ControlConfigJoyHatLeft,Hat left
+ControlConfigJoyHatRight,Hat right
+IDS_FarmHub,The Farmhouse
+IDS_Stables,The Stables
+IDS_House,The House
+IDS_Office,House
+IDS_Shop,The Shop
+IDS_Orchard,Magical Orchard
+IDS_Beach,Whitewater Beach
+IDS_Forest,Ancient Forest
+location_name_exit,Exit
+IDS_NoticeBoard,The Noticeboard
+IDS_Paddock,Paddock
+IDS_PaddockCaption,Feed and care for your horse
+wac_present_title,New Web Site Code
+card_set_nag_title,Card Set Updated
+IDS_FrontGate,Front Gate
+IDS_FrontGateCaption,Participate in a competitive event
+IDS_CrossCountry,Cross Country
+IDS_OptionsCaption2,"Adjust your sound, graphics and game options"
+IDS_BestScores,Best Scores
+IDS_BestScoresCaption,View your best scores
+IDS_GameOptions,Game Options
+IDS_Vibration,Vibration
+MentorWelcome,Mentor Welcome
+UsingThePaddock,Using the Paddock
+MentorTour,Mentor Tour
+MentorFeedback,Mentor Feedback
+MentorProgress,Mentor Progress
+IDS_TackRoomCaption,Change your clothing or your horse's tack
+IDS_ConfirmExit,Confirm Exit
+IDS_ConfirmExitCaption,Exit the Farm Hub to the Main Menu?
+IDS_ConfirmExitMessage,Are you sure you wish to leave the farm and return to the main menu?
+farmhouse_info_open,"Here you can change your clothes, look through your Card Collection and view all your Trophies."
+stables_info_open,"Visit your horses in the Stables to care for them, equip them and choose one to ride."
+shop_info_open,Spend your Pocket Money here!
+orchard_info_open,The Magical Orchard trail winds between rows of beautiful fruit trees. \Why don't you take a look?
+beach_info_open,Sample the sea breeze amongst the sand dunes of the Whitewater Beach trail.
+forest_info_open,Explore the mystical mists of the Ancient Forest trail!
+noticeboard_info_open,Check the Noticeboard for interesting opportunities. \Adventure waits!
+wac_award_08,You have collected all of the Common Cards!
+wac_award_09,You have collected all of the Rare Cards!
+wac_award_10,You have collected all of the Shiny Cards!
+wac_award_11,You have collected all of the Energy Cards!
+wac_present_congrats,Very well done! \Here's a new Web Site Code!
+Cards_Complete,You have found every card in the game! \Your Card Collection is now complete!
+challenge_nag,New notes have been added to the Noticeboard! \Why don't you take a look?
+new_card,NEW CARD
+duplicate_card,DUPLICATE CARD
+card_set_card,CARD SET CARD!
+card_set_complete_big,CARD SET COMPLETE!
+new_challenge,NEW CHALLENGE
+IDS_PreCardsUnlocked,Well done! You have found
+IDS_PostCardsUnlocked,.  They have been added to your card collection.
+IDS_Congratulations,Congratulations
+IDS_Clothes,Wardrobe
+IDS_Awards,Trophy Cabinet
+IDS_Cards,Card Collection
+card_set,Card Set
+IDS_CardSets,Card Sets
+icon_help_wardrobe,Select this option to change your clothes.
+icon_help_cabinet,Select this option to inspect your Trophy Cabinet.
+icon_help_cards,Select this option to look through your Card Collection.
+icon_help_card_set,Select this option to check the current Card Set.
+icon_help_hat,Try on a hat?
+icon_help_jacket,Try on a top?
+icon_help_trousers,Try on some trousers?
+icon_help_boots,Try on some boots or shoes?
+card_common,Common Cards
+card_energy,Energy Cards
+card_rare,Rare Cards
+card_shiny,Shiny Cards
+not_got_card,You still need to find this card.
+card_collection,"You have a total of @N1 unique cards, out of a possible @N2."
+card_is_shiny,Shiny
+card_set_complete,Card Set Complete!
+got_new_horse,@HO has joined your Stable.
+central_card_male,Collect the cards for all of @HO's friends and he'll be added to your Stable!
+central_card_female,Collect the cards for all of @HO's friends and she'll be added to your Stables!
+IDS_CardSet1,Fiona
+IDS_CardSet2,Jewel
+IDS_CardSet3,Thunder
+IDS_CardSet4,Bella
+trophy_1_gold,The Magical Orchard Trail Ace
+trophy_1_silver,The Magical Orchard Trail Master
+trophy_1_bronze,The Magical Orchard Trail Champion
+trophy_2_gold,Whitewater Beach Trail Ace
+trophy_2_silver,Whitewater Beach Trail Master
+trophy_2_bronze,Whitewater Beach Trail Champion
+trophy_3_gold,The Ancient Forest Trail Ace
+trophy_3_silver,The Ancient Forest Trail Master
+trophy_3_bronze,The Ancient Forest Trail Champion
+IDS_DressHorse,Select this option to dress this horse.
+door_back,Select this option to choose this horse to ride.
+unhappy_horse_male,"@N isn't happy! \If you want to ride him, do some chores to cheer him up!"
+unhappy_horse_female,"@N isn't happy! \If you want to ride her, do some chores to cheer her up!"
+icon_help_saddle,Change your saddle?
+icon_help_mane,Put a ribbon in the horse's mane?
+icon_help_socks,Try out some horse boots?
+icon_help_noseband,How about a noseband?
+icon_help_tailband,Put a ribbon in the horse's tail?
+stall_groom,Select this option to groom the horse.
+stall_feed,Select this option to feed the horse.
+stall_apples,Select this option to give the horse some treats.
+IDS_Unlocked,Unlocked
+IDS_UnlockedCaption,Congratulations! You have unlocked:
+IDS_Hand,Hand
+IDS_HayBale,Hay Bale
+IDS_WaterTrough,Water Trough
+IDS_Brush,Brush
+IDS_Carrots,Carrots
+IDS_Wash,Wash
+IDS_Apple,Apple
+IDS_SugarCubes,Sugar Cubes
+IDS_StallOne,Stall 1
+IDS_StallTwo,Stall 2
+IDS_StallThree,Stall 3
+IDS_StallFour,Stall 4
+IDS_StallFive,Stall 5
+IDS_StallSix,Stall 6
+IDS_HandCaption,Pat your horse
+IDS_HayBaleCaption,Feed hay to your horse
+IDS_WaterTroughCaption,Water your horse
+IDS_BrushCaption,Brush your horse's coat
+IDS_AppleCaption,An apple a day keeps the vet away.
+IDS_CarrotsCaption,Carrots are a healthy snack.
+IDS_MintsCaption,Mints are a tasty treat.
+IDS_SugarCubesCaption,Sugar lumps - don't eat them all yourself!
+IDS_WashCaption,Wash your horse
+IDS_Food,Food
+IDS_Water,Water
+IDS_Happiness,Happiness
+IDS_Instructions,Instructions
+IDS_SelectHorse,Select Horse
+IDS_HorseStats,Horse Stats
+Locked,Locked
+IDS_ConfirmHorse,Confirm Horse
+CaringForYourHorse,Caring For Your Horse
+no_apples,No apples left! You can get some more from the Shop.
+no_carrots,You're out of carrots. Try the Shop?
+no_mints,No more mints left. Buy some from the Shop?
+no_sugar_lumps,There are no more sugar lumps. Time for a trip to the Shop?
+HandInstructionsWin32,Use the hand to stroke the horse's head.
+AppleInstructionsWin32,"Drag the apple to the horse's mouth, then release it."
+CarrotsInstructionsWin32,"Drag the carrot to the horse's mouth, then release it."
+instructions_mints,"Drag the mint to the horse's mouth, then release it."
+SugarCubesInstructionsWin32,"Drag the sugar lump to the horse's mouth, then release it."
+BrushInstructionsWin32,Move the brush over the horse and press space bar or mouse button to brush.
+WashInstructionsWin32,Move the sponge over the horse and press space bar or mouse button to wash.
+ChallengeScreen_ChallengeLocation,Location
+ChallengeScreen_ChallengeDoing,Task
+ChallengeScreen_ChallengeTimeAmt,Time
+ChallengeScreen_ChallengeReward,Reward
+ChallengeScreen_CardReward,Cards
+IDS_Activity,Activity
+IDS_Goal,Goal
+IDS_Location,Location
+IDS_Reward,Reward
+chid_trade_me,~Card to Trade!~
+chid_trade_me_button,Make Trade
+challenge_reward_money,Very well done! \You completed the challenge. \Have some pocket money as a reward!
+challenge_commiz,"Oh dear! \Never mind though, you can always try the challenge again."
+challenge_success,Challenge Completed!
+challenge_fail,Challenge Failed
+chid_trade_me_offer_NN,Trade me one of your @N1 cards in exchange for a @N2?
+chid_trade_me_offer_NS,Trade me one of your @N1 cards in exchange for a Shiny @N2?
+chid_trade_me_offer_SN,Trade me one of your Shiny @N1 cards in exchange for a @N2?
+chid_trade_me_offer_SS,Trade me one of your Shiny @N1 cards in exchange for a Shiny @N2?
+tack,Tack
+tools,Tools & Treats
+cards,Cards
+clothes,Clothes
+grooming_header,Grooming Equipment
+treats_header,Treats
+cost,Cost:
+IDS_BuyClothes,Buy Clothes
+IDS_BuyHorsewear,Buy Horsewear
+IDS_BuyCards,Buy Cards
+IDS_BuyTreats,Buy Treats
+buy_hat,Buy a hat?
+buy_jacket,Buy a jacket?
+buy_trousers,Buy some trousers?
+buy_footwear,Buy some footwear?
+no_hat,"No hats in stock, I'm afraid."
+no_jacket,Sorry: we're all out of jackets right now.
+no_trousers,No trousers available. Try again later!
+no_footwear,No footware in stock at the moment.
+buy_saddle,Buy a saddle?
+buy_noseband,Buy a noseband?
+buy_socks,Buy horse boots?
+buy_mane,Buy mane ribbons?
+buy_tailband,Buy tail ribbons?
+no_saddle,We're out of saddles at the moment.
+no_noseband,"No nosebands available, I'm afraid."
+no_socks,No horse boots available. Try again later!
+no_mane,No mane ribbons in stock at the moment.
+no_tailband,Sorry: we're all out of tail ribbons.
+clothes_instr,Do you need any new clothes?
+tack_instr,We sell tack for horses.
+tools_instr,Take care of your horse's needs.
+cards_instr,Maybe there are some new Bella Sara cards for sale?
+shop_grooming,Select this option to buy grooming equipment.
+shop_treats,Select this option to buy your horses some treats.
+IDS_AppleShopDesc,An apple a day keeps the vet away.
+IDS_CarrotsShopDesc,Carrots are a healthy snack.
+IDS_MintShopDesc,Mints are a tasty treat.
+IDS_SugarCubesShopDesc,Sugar lumps - don't eat them all yourself!
+IDS_Mint,Mints
+IDS_MintCaption,Mints are a tasty treat.
+IDS_BrushShopName,Brush
+IDS_CarrotsShopName,Carrots
+IDS_WashShopName,Sponge and Bucket
+IDS_AppleShopName,Apples
+IDS_SugarCubesShopName,Sugar Cubes
+IDS_MintShopName,Mints
+IDS_HandShopDesc,Your hand
+IDS_HayBaleShopDesc,A fresh pile of hay for your horse
+IDS_WaterTroughShopDesc,A trough of pure sweet water
+IDS_BrushShopDesc,A brush to shine the coat of your horse
+IDS_WashShopDesc,A bucket and sponge to clean your horse
+IDS_Saddles,Saddles
+IDS_Good,Good
+IDS_Excellent,Excellent
+IDS_Special,Special
+IDS_Tack,Tack
+IDS_SpecialOne,Special 1
+IDS_SpecialTwo,Special 2
+IDS_Outfit,Outfit
+IDS_JodhpurColour,Jodhpur Colour
+IDS_HelmetColour,Helmet Colour
+IDS_TopColour,Top Colour
+IDS_VestColour,Vest Colour
+IDS_RiderCoatColour,Coat Colour
+IDS_Horsewear,Horsewear
+IDS_Treats,Treats
+IDS_Headwear,Headwear
+IDS_Top,Top
+IDS_Pants,Pants
+IDS_Horseware,Horsewear
+IDS_Shoes,Shoes
+IDS_HWSaddle,Saddle
+IDS_HWHarness,Harness
+IDS_HWSocks,Horse Boots
+IDS_HWMane,Mane
+IDS_HWTail,Tail
+IDS_NotEnoughMoney,You do not have enough horseshoes for this item.  Come back and see me when you get some more.
+IDS_ConfirmBuy,Are you sure?
+IDS_AlreadyGot,You have already purchased this item.  You don't need to buy it twice!
+IDS_NoCardsLeft,Sorry!  I don't have any cards availiable to purchase today.  Come back again later.
+shop_treat_number,You already have @NUM of these treats.
+shop_treat_number_single,You already have 1 of these treats.
+shop_treat_number_none,You don't have any of these treats.
+buy_card_plural,I am assured that these are all very special Bella Sara cards. \Take your pick!
+buy_card_singular,I'm sure that this must be a very special Bella Sara card. \Would you like to buy it?
+no_cards_to_buy,We're all out of Bella Sara cards at the moment. \Come back later!
+sponge_a,This is an ordinary sponge.
+sponge_b,A Deluxe Wonder Sponge! \Clean your horses' coats with extra efficiency!
+sponge_c,This is the Super Deluxe Wonder Sponge! \The ultimate for speedy sponging results!
+comb_a,This is an ordinary comb.
+comb_b,The No-More-Tugs Wonder Comb. \Makes mane and tail grooming much less of a chore!
+comb_c,"The Super No-More-Tugs Wonder Comb, no less! \Whizz through your mane and tail cleaning chores!"
+comb_d,The Magi-Wonder Comb is truly magical.\Cleaning those manes and tails won't feel like a chore any more!
+buy_comb,Buy a comb?
+buy_sponge,Buy a sponge?
+not_yet_comb,We're still waiting for the new combs to come in. Sorry!
+not_yet_sponge,"If you come back later, we may have some new sponges in stock!"
+no_comb,You already have the best comb possible!
+no_sponge,We can't do better than your current sponge!
+challenge_quit,Exit Challenge \Are you sure?
+trail_quit,Exit Trail \Are you sure?
+arena_quit,Exit Arena \Are you sure?
+farmyard_quit,Exit Farmyard \Are you sure?
+ready_set_go,GO!
+well_done,WELL DONE!
+new_high,NEW RECORD TIME!
+arena_trophy_won,FANTASTIC!
+arena_course_complete,COURSE COMPLETE!
+you_won_bronze,YOU WON BRONZE!
+you_won_silver,YOU WON SILVER!
+you_won_gold,YOU WON GOLD!
+trail_champion,YOU ARE THE CHAMPION!
+challenge_complete_big,CHALLENGE COMPLETE!
+time_up,TIME UP!
+tired_horse,YOUR HORSE IS TIRED!
+Clothes_Hat_Casual_name,A Normal Hat
+Clothes_Hat_Dressage_name,A Dressage Helmet
+Clothes_Hat_Cowgirl_name,A Cowgirl Hat
+Clothes_Hat_Fairy_name,A Fairy Tiara
+Clothes_Hat_Princess_name,A Regal Tiara
+Clothes_Top_Casual_name,A Casual Shirt
+Clothes_Top_Dressage_name,A Dressage Coat
+Clothes_Top_Cowgirl_name,A Cowgirl Jacket
+Clothes_Top_Fairy_name,A Fairy Top
+Clothes_Top_Princess_name,A Regal Top
+Clothes_Bottom_Casual_name,A Pair of Casual Pants
+Clothes_Bottom_Dressage_name,A Pair of Dressage Pants
+Clothes_Bottom_Cowgirl_name,A Pair of Cowgirl Pants
+Clothes_Bottom_Fairy_name,A Fairy Skirt
+Clothes_Bottom_Princess_name,A Pair of Regal Pants
+Clothes_Boots_Casual_name,A Pair of Normal Boots
+Clothes_Boots_Dressage_name,A Pair of Dressage Boots
+Clothes_Boots_Cowgirl_name,A pair of Cowgirl boots.
+Clothes_Boots_Fairy_name,A Pair of Fairy Boots
+Clothes_Boots_Princess_name,A Pair of Regal Shoes
+Clothes_Hat_Casual_desc,Not used - Do not translate
+Clothes_Hat_Dressage_desc,Not used - Do not translate
+Clothes_Hat_Cowgirl_desc,Not used - Do not translate
+Clothes_Hat_Fairy_desc,Not used - Do not translate
+Clothes_Hat_Princess_desc,Not used - Do not translate
+Clothes_Top_Casual_desc,Not used - Do not translate
+Clothes_Top_Dressage_desc,Not used - Do not translate
+Clothes_Top_Cowgirl_desc,Not used - Do not translate
+Clothes_Top_Fairy_desc,Not used - Do not translate
+Clothes_Top_Princess_desc,Not used - Do not translate
+Clothes_Bottom_Casual_desc,Not used - Do not translate
+Clothes_Bottom_Dressage_desc,Not used - Do not translate
+Clothes_Bottom_Cowgirl_desc,Not used - Do not translate
+Clothes_Bottom_Fairy_desc,Not used - Do not translate
+Clothes_Bottom_Princess_desc,Not used - Do not translate
+Clothes_Boots_Casual_desc,Not used - Do not translate
+Clothes_Boots_Dressage_desc,Not used - Do not translate
+Clothes_Boots_Cowgirl_desc,Not used - Do not translate
+Clothes_Boots_Fairy_desc,Not used - Do not translate
+Clothes_Boots_Princess_desc,Not used - Do not translate
+Horsewear_Harness_Princess_name,A Regal Harness
+Horsewear_Harness_Casual_name,A Plain Harness
+Horsewear_Harness_Dressage_name,A Dressage Harness
+Horsewear_Harness_Cowgirl_name,A Western Harness
+Horsewear_Harness_Fairy_name,A Fairy Harness
+Horsewear_Socks_Casual_name,Plain Horse Boots
+Horsewear_Socks_Dressage_name,Dressage Horse Boots
+Horsewear_Socks_Cowgirl_name,Western Horse Boots
+Horsewear_Socks_Fairy_name,Fairy Horse Boots
+Horsewear_Socks_Princess_name,Regal Horse Boots
+Horsewear_Saddle_Casual_name,A Comfy Saddle
+Horsewear_Saddle_Dressage_name,A Dressage Saddle
+Horsewear_Saddle_Cowgirl_name,A Western Saddle
+Horsewear_Saddle_Fairy_name,A Fairy Blanket
+Horsewear_Saddle_Princess_name,A Regal saddle
+Horsewear_Saddle_Casual_desc,Not used - Do not translate
+Horsewear_Saddle_Dressage_desc,Not used - Do not translate
+Horsewear_Saddle_Cowgirl_desc,Not used - Do not translate
+Horsewear_Saddle_Fairy_desc,Not used - Do not translate
+Horsewear_Saddle_Princess_desc,Not used - Do not translate
+Horsewear_Socks_Casual_desc,Not used - Do not translate
+Horsewear_Socks_Dressage_desc,Not used - Do not translate
+Horsewear_Socks_Cowgirl_desc,Not used - Do not translate
+Horsewear_Socks_Fairy_desc,Not used - Do not translate
+Horsewear_Socks_Princess_desc,Not used - Do not translate
+Horsewear_Harness_Casual_desc,Not used - Do not translate
+Horsewear_Harness_Dressage_desc,Not used - Do not translate
+Horsewear_Harness_Cowgirl_desc,Not used - Do not translate
+Horsewear_Harness_Fairy_desc,Not used - Do not translate
+Horsewear_Harness_Princess_desc,Not used - Do not translate
+socks_cant,You don't have any horse boots. \Take a look in the shop!
+socks_unequip,Let's not bother with horse boots.
+noseband_cant,You don't own any nosebands. \But they may have some in the shop!
+noseband_unequip,Let's not bother with a noseband.
+Excelsior_Name,Excelsior
+Excelsior_Description,Strong and Proud
+Excelsior_Message,Be yourself
+Fiona_Name,Fiona
+Fiona_Description,Small but sweet
+Fiona_Message,Let happiness flow over you
+Jewel_Name,Jewel
+Jewel_Description,Rare and friendly
+Jewel_Message,Be strong for everyone around you
+Thunder_Name,Thunder
+Thunder_Description,Loud
+Thunder_Message,Feel free to say what you mean
+Bella_Name,Bella
+Bella_Description,Loving
+Bella_Message,Give love to everyone
+Card_ALCH01_name,Achilles
+Card_ALCH02_name,Aphaia
+Card_ALCH03_name,Aphrodite
+Card_ALCH04_name,Aurora
+Card_ALCH05_name,Bukefalos
+Card_ALCH06_name,Ceres
+Card_ALCH07_name,Clio
+Card_ALCH08_name,Cupid
+Card_ALCH09_name,Cybele
+Card_ALCH10_name,Demeter
+Card_ALCH11_name,Diana
+Card_ALCH12_name,Echo
+Card_ALCH13_name,Eirene
+Card_ALCH14_name,Epona
+Card_ALCH15_name,Flora
+Card_ALCH16_name,Gaia
+Card_ALCH17_name,Graia
+Card_ALCH18_name,Hera
+Card_ALCH19_name,Hestia
+Card_ALCH20_name,Juno
+Card_ALCH21_name,Jupiter
+Card_ALCH22_name,Opis
+Card_ALCH23_name,Pandora
+Card_ALCH24_name,Persephone
+Card_ALCH25_name,Selene
+Card_ALCH26_name,Thalia
+Card_ALCH27_name,Urania
+Card_ALCH28_name,Vesta
+Card_NLCH02_name,Brisi
+Card_NLCH05_name,Danu
+Card_NLCH06_name,Donn
+Card_NLCH07_name,Embarr
+Card_NLCH08_name,Firewalker
+Card_NLCH09_name,Fylgie
+Card_NLCH10_name,Iduna
+Card_NLCH11_name,Kelpie-Pooka
+Card_NLCH13_name,Mjolnir
+Card_NLCH15_name,Mystery
+Card_NLCH16_name,Rauni
+Card_NLCH17_name,Rhiannon
+Card_NLCH18_name,Rimfaxe
+Card_NLCH21_name,Sleipnir
+Card_NLCH24_name,Thor
+Card_NLCH25_name,Urd
+Card_NLCH26_name,Viking
+Card_B2CH05_name,Bosi
+Card_B2CH08_name,Charlie
+Card_B2CH11_name,Colour
+Card_B2CH33_name,Mandalay
+Card_B2CH36_name,Moonlight
+Card_B2CH45_name,Saga
+Card_B2CH51_name,Skipper
+Card_B2CH52_name,Sokki
+Card_B2CH53_name,Star
+Card_B2CH56_name,Walter
+Card_B2CH57_name,Yasmin
+Card_B2CH02_name,Artemis
+Card_B2CH03_name,Beauty
+Card_B2CH04_name,Blackie
+Card_B2CH12_name,Dynamo
+Card_B2CH13_name,Eagle
+Card_B2CH16_name,Flame
+Card_B2CH19_name,Halloween
+Card_B2CH20_name,Hercules
+Card_B2CH21_name,Honey
+Card_B2CH22_name,Jojo
+Card_B2CH23_name,Jonathan
+Card_B2CH24_name,King
+Card_B2CH25_name,Kio
+Card_B2CH28_name,Leonardo
+Card_B2CH29_name,Lucas
+Card_B2CH31_name,Luna
+Card_B2CH38_name,Nanna
+Card_B2CH39_name,Nikita
+Card_B2CH42_name,Pedro
+Card_B2CH44_name,Rose
+Card_B2CH46_name,Santos
+Card_B2CH47_name,Sarah
+Card_B2CH49_name,Shakira
+Card_B2CH58_name,Yellow
+Card_B2CH18_name,Grey
+Card_B2CH01_name,Alibi
+Card_B2CH06_name,Cantaro
+Card_B2CH07_name,Cascadeur
+Card_B2CH14_name,Feng
+Card_B2CH15_name,Filippa
+Card_B2CH17_name,Friends
+Card_B2CH26_name,Konfu
+Card_B2CH27_name,Leonard
+Card_B2CH30_name,Lucky Light
+Card_B2CH32_name,Macon
+Card_B2CH34_name,Ming
+Card_B2CH35_name,Misty
+Card_B2CH37_name,Mushu
+Card_B2CH40_name,Ninja
+Card_B2CH41_name,Peace
+Card_B2CH43_name,Pink Lady
+Card_B2CH48_name,Sasha
+Card_B2CH50_name,Sheng
+Card_B2CH54_name,Sung
+Card_B2CH55_name,Tai
+Card_B2CH09_name,Yung
+Card_ALRE01_name,Aphrodite’s Gown
+Card_ALRE02_name,Apollo’s Lyre
+Card_ALRE03_name,Athena’s Chariot
+Card_ALRE04_name,Mercury’s Boots
+Card_ALRE05_name,Moonlight Tiara
+Card_ALRE06_name,Olympic Statue
+Card_ALRE07_name,Poseidon’s Trident
+Card_ALRE08_name,Squirrel Sentinel
+Card_ALRE09_name,Triton’s Horn
+Card_ALRE10_name,Vulcan’s Horseshoes
+Card_NLRE01_name,Antique Flowerpot
+Card_NLRE02_name,Anvil & Hammer
+Card_NLRE03_name,Horseshoe Water Fountain
+Card_NLRE04_name,Lawn Gnome
+Card_NLRE05_name,Lilac Gazebo
+Card_NLRE06_name,Primrose Lamppost
+Card_NLRE08_name,Shade Tree
+Card_NLRE07_name,Weathervane
+Card_NLRE09_name,Winged Horse Statue
+Card_NLRE10_name,Wishing Well
+Card_B2RE09_name,Blanket
+Card_B2RE02_name,Halter
+Card_B2RE04_name,Jodhpurs
+Card_B2RE05_name,Jumping Saddle
+Card_B2RE06_name,Riding Boots
+Card_B2RE07_name,Riding Hat
+Card_B2RE10_name,Training Saddle
+Card_B2RE11_name,Flying Horseshoe
+Card_B2RE01_name,Grooming
+Card_B2RE03_name,Hoof Care
+Card_B2RE08_name,Riding Lesson
+Card_ALFH01_name,Amor
+Card_ALFH02_name,Apollo
+Card_ALFH03_name,Athena
+Card_ALFH05_name,Eurynome
+Card_ALFH07_name,Hecate
+Card_ALFH08_name,Iris
+Card_ALFH09_name,Janus
+Card_ALFH11_name,Naiad
+Card_ALFH12_name,Neptune
+Card_ALFH13_name,Nike
+Card_ALFH15_name,Triton
+Card_ALFH16_name,Uranus
+Card_ALFH17_name,Venus
+Card_B2FH01_name,Angel
+Card_NLFH04_name,Bifrost
+Card_NLFH05_name,Conall
+Card_NLFH07_name,Froya
+Card_NLFH08_name,Iceking
+Card_NLFH10_name,Jonas
+Card_NLFH11_name,Lakehorse
+Card_NLFH12_name,Melusine
+Card_NLFH14_name,Ran
+Card_NLFH15_name,Signy
+Card_NLFH16_name,Skinfaxe
+Card_B2FH02_name,Balto
+Card_B2FH15_name,Misla
+Card_B2FH03_name,Bella
+Card_B2FH04_name,Bellisimo
+Card_B2FH05_name,Bello
+Card_B2FH08_name,Fiona
+Card_B2FH12_name,Jewel
+Card_B2FH18_name,Rain
+Card_B2FH20_name,Shaman
+Card_NVFH15_name,Thunder
+Card_B2FH27_name,Yin and Yang
+Card_B2FH06_name,Cajus
+Card_B2FH07_name,Dino
+Card_B2FH09_name,Flipper
+Card_B2FH10_name,Freja
+Card_B2FH11_name,Hummingbird
+Card_B2FH13_name,Lancelot
+Card_B2FH14_name,Mermaid
+Card_B2FH16_name,Parlez
+Card_B2FH17_name,Pegasus
+Card_B2FH19_name,Roxy
+Card_B2FH22_name,Tao
+Card_B2FH24_name,Tiffi
+Card_B2FH25_name,Treasure
+Card_B2FH26_name,Wavebreaker
+Card_ALRH01_name,Amor
+Card_ALRH02_name,Apollo
+Card_ALRH03_name,Athena
+Card_ALRH05_name,Eurynome
+Card_ALRH07_name,Hecate
+Card_ALRH08_name,Iris
+Card_ALRH09_name,Janus
+Card_ALRH11_name,Naiad
+Card_ALRH12_name,Neptune
+Card_ALRH13_name,Nike
+Card_ALRH15_name,Triton
+Card_ALRH16_name,Uranus
+Card_ALRH17_name,Venus
+Card_B2RH01_name,Angel
+Card_NLRH04_name,Bifrost
+Card_NLRH05_name,Conall
+Card_NLRH07_name,Froya
+Card_NLRH08_name,Iceking
+Card_NLRH10_name,Jonas
+Card_NLRH11_name,Lakehorse
+Card_NLRH12_name,Melusine
+Card_NLRH14_name,Ran
+Card_NLRH15_name,Signy
+Card_NLRH16_name,Skinfaxe
+Card_B2RH02_name,Balto
+Card_B2RH15_name,Misla
+Card_B2RH03_name,Bella
+Card_B2RH04_name,Bellisimo
+Card_B2RH05_name,Bello
+Card_B2RH12_name,Jewel
+Card_B2RH18_name,Rain
+Card_B2RH20_name,Shaman
+Card_NVFH15_name,Thunder
+Card_B2RH27_name,Yin and Yang
+Card_B2RH06_name,Cajus
+Card_B2RH07_name,Dino
+Card_B2RH08_name,Fiona
+Card_B2RH09_name,Flipper
+Card_B2RH10_name,Freja
+Card_B2RH11_name,Hummingbird
+Card_B2RH13_name,Lancelot
+Card_B2RH14_name,Mermaid
+Card_B2RH16_name,Parlez
+Card_B2RH17_name,Pegasus
+Card_B2RH22_name,Tao
+Card_B2RH24_name,Tiffi
+Card_B2RH25_name,Treasure
+Card_B2RH26_name,Wavebreaker
+Card_B2RH19_name,Roxy
+Card_AJCH01_name,Autumn
+Card_AJCH02_name,Befana
+Card_AJCH03_name,Carmina
+Card_AJCH04_name,Channa
+Card_AJCH05_name,Conall
+Card_AJCH06_name,Donn
+Card_AJCH07_name,Elora
+Card_AJCH08_name,Euros
+Card_AJCH09_name,Farah
+Card_AJCH10_name,Faxon
+Card_AJCH11_name,Fiona
+Card_AJCH12_name,Ghost of Airistos
+Card_AJCH13_name,Ghost of Islandar
+Card_AJCH14_name,Ghost of  Shahazar
+Card_AJCH15_name,Ghost of Valeryk
+Card_AJCH16_name,Gooty
+Card_AJCH17_name,Hades and Persephone
+Card_AJCH18_name,Halloween
+Card_AJCH19_name,Hyphae
+Card_AJCH20_name,Jewel
+Card_AJCH21_name,Malin
+Card_AJCH22_name,Marigold
+Card_AJCH23_name,Memory
+Card_AJCH24_name,Mirage
+Card_AJCH25_name,Moonbeam and Sunbeam
+Card_AJCH26_name,Nasim and Aviva
+Card_AJCH27_name,Nike
+Card_AJCH28_name,Oasis
+Card_AJCH29_name,Rosamund
+Card_AJCH30_name,Rose and Shakira
+Card_AJCH31_name,Sabrina
+Card_AJCH32_name,Salem
+Card_AJCH33_name,Satriin
+Card_AJCH34_name,Shamal
+Card_AJCH35_name,Shanti
+Card_AJCH36_name,Shift
+Card_AJCH37_name,Sirocco
+Card_AJCH38_name,Thunder
+Card_AJCH39_name,Umber
+Card_AJCH40_name,Yaqut
+Card_AJCH41_name,Zombie and Ghost
+Card_AJCH42_name,Bella and Sara
+Card_AKCH01_name,Bella and Sara
+Card_AJCH44_name,Twig and Deru
+Card_AJCH45_name,Wings and Emma
+Card_ALCH01_desc,Have the courage to learn from your weaknesses and grow stronger.
+Card_B2CH01_desc,Find new ways to be with others.
+Card_ALRH01_desc,Use your love to bring peace to the world.
+Card_ALFH01_desc,Use your love to bring peace to the world.
+Card_B2FH01_desc,Angel is coming. Make space and let heaven help you.
+Card_B2RH01_desc,Angel is coming. Make space and let heaven help you.
+Card_ALCH02_desc,Dare to loosen your grip for a while. You will see things differently.
+Card_ALCH03_desc,Look for beauty where you least expect it.
+Card_ALRH02_desc,Lots of small steps make big dreams come true.
+Card_ALFH02_desc,Lots of small steps make big dreams come true.
+Card_B2CH02_desc,I will help you have courage and pride.
+Card_ALFH03_desc,"Be yourself, be free, and allow others the same freedom."
+Card_ALRH03_desc,"Be yourself, be free, and allow others the same freedom."
+Card_ALCH04_desc,Nature’s energy is all around you every moment.
+Card_B2FH02_desc,Happiness is a decision. Decide to be happy.
+Card_B2RH02_desc,Happiness is a decision. Decide to be happy.
+Card_B2CH03_desc,Bring one of your friends and come play with me.
+Card_B2FH03_desc,Think positive every day! Feel the bliss of joy and energy that comes with it.
+Card_B2RH03_desc,Think positive every day! Feel the bliss of joy and energy that comes with it.
+Card_B2FH04_desc,Trust yourself and you will know how to live.
+Card_B2RH04_desc,Trust yourself and you will know how to live.
+Card_B2RH05_desc,Life is a gift. Receive it and love it.
+Card_B2FH05_desc,Life is a gift. Receive it and love it.
+Card_NLFH04_desc,Where love is there are always miracles.
+Card_NLRH04_desc,Where love is there are always miracles.
+Card_B2CH04_desc,Follow your dreams. Feel the happiness it brings.
+Card_B2CH05_desc,Use all your abilities to make this a beautiful place.
+Card_NLCH02_desc,Let’s celebrate - come dance with me!
+Card_ALCH05_desc,Life is not about anger. It is about peace.
+Card_B2FH06_desc,The world’s happiness comes from having happy thoughts.
+Card_B2RH06_desc,The world’s happiness comes from having happy thoughts.
+Card_B2CH06_desc,Develop your ability to lead. Ask a wise person for advice.
+Card_B2CH07_desc,The things you have lost will come back by themselves.
+Card_ALCH06_desc,"When you feed your spirit, things around you will grow."
+Card_B2CH08_desc,Make time to listen to your friends.
+Card_ALCH07_desc,Let your ideas flow. They are meant to be used.
+Card_B2CH11_desc,"Feel the joy in what you see, hear, and sense."
+Card_NLRH05_desc,Feel the courage inside you.
+Card_NLFH05_desc,Feel the courage inside you.
+Card_ALCH08_desc,Your heart is free. Have the courage to follow it.
+Card_ALCH09_desc,Believe in the abundance of love that surrounds you.
+Card_NLCH05_desc,Life is full of surprises. Enjoy it!
+Card_ALCH10_desc,Take care of yourself and others. Feel the joy it brings you.
+Card_ALCH11_desc,Take care of nature. Let the world stay a beautiful place to live.
+Card_B2FH07_desc,Look for the peace behind power and energy.
+Card_B2RH07_desc,Look for the peace behind power and energy.
+Card_NLCH06_desc,Share your good feelings and they will come back to you.
+Card_B2CH12_desc,Believe in yourself. Have confidence in what you do.
+Card_B2CH13_desc,See the world from above like an eagle.
+Card_ALCH12_desc,Tell others what is important to you.
+Card_ALCH13_desc,Every moment is a new chance for you to make things better.
+Card_NLCH07_desc,Listen to the music of my heart.
+Card_ALCH14_desc,Thank you for being honest with me and with yourself.
+Card_ALRH05_desc,Everything is easier when you focus on what you’re doing.
+Card_ALFH05_desc,Everything is easier when you focus on what you’re doing.
+Excelsior_C_saying,Every new journey starts with the first step.
+Card_B2CH14_desc,This moment is full of opportunities.
+Card_B2CH15_desc,Enjoy what you have got. You don’t need what you have not.
+Card_B2FH08_desc,Be the hero in your own story.
+Card_B2RH08_desc,Be the hero in your own story.
+Card_NLCH08_desc,Belief gives you the courage to move forward and take chances.
+Card_B2CH16_desc,I run faster than the wind. Follow me and we will find a magical place.
+Card_B2RH09_desc,I will embrace you with extra energy and magic. Then you don’t have to be afraid.
+Card_B2FH09_desc,I will embrace you with extra energy and magic. Then you don’t have to be afraid.
+Card_ALCH15_desc,Open like a flower and show your inner beauty.
+Card_B2RH10_desc,Close your eyes and hear the sound around you.
+Card_B2FH10_desc,Close your eyes and hear the sound around you.
+Card_B2CH17_desc,Think of all the good that exists in your friendships.
+Card_NLRH07_desc,Life is magical. Embrace it.
+Card_NLFH07_desc,Life is magical. Embrace it.
+Card_NLCH09_desc,Open your arms to all that is good.
+Card_ALCH16_desc,The world is a magical place. Enjoy it!
+Card_ALCH17_desc,Spread your wings and be free!
+Card_B2CH18_desc,"If you really want it, it will come to you."
+Card_B2CH19_desc,I will keep you safe.
+Card_ALFH07_desc,You are perfect just as you are!
+Card_ALRH07_desc,You are perfect just as you are!
+Card_ALCH18_desc,Be the leader in your own life.
+Card_B2CH20_desc,Don’t be afraid to ask for help.
+Card_ALCH19_desc,"When you share, everyone feels happy."
+Card_B2CH21_desc,Create something beautiful. It will make you feel peaceful.
+Card_B2RH11_desc,Go after the point of life.
+Card_B2FH11_desc,Go after the point of life.
+Card_NLRH08_desc,Hope is like magic. It keeps you full of energy.
+Card_NLFH08_desc,Hope is like magic. It keeps you full of energy.
+Card_NLCH10_desc,Feel the beauty inside you and let it blossom.
+Card_ALFH08_desc,Follow the rainbow. Believe in happiness.
+Card_ALRH08_desc,Follow the rainbow. Believe in happiness.
+Card_ALFH09_desc,Do the best you can!
+Card_ALRH09_desc,Do the best you can!
+Card_B2FH12_desc,I will help you to stay in a steady flow of abundance.
+Card_B2RH12_desc,I will help you to stay in a steady flow of abundance.
+Card_B2CH22_desc,You create your own reality.
+Card_NLFH10_desc,Live out your dreams every day. This day will never come again.
+Card_NLRH10_desc,Live out your dreams every day. This day will never come again.
+Card_B2CH23_desc,It is time for joyful playing. Joy creates miracles.
+Card_ALCH20_desc,"Use your life to create, be joyful, and celebrate!"
+Card_ALCH21_desc,Be willing to forgive.
+Card_NLCH11_desc,Believe in the goodness of life.
+Card_B2CH24_desc,I will help you spread peace and unity throughout the world.
+Card_B2CH25_desc,Your strength comes from within.
+Card_B2CH26_desc,Move toward your goals. The road is open.
+Card_NLFH11_desc,Share what you know with others. It will make you stronger.
+Card_NLRH11_desc,Share what you know with others. It will make you stronger.
+Card_B2FH13_desc,Be patient. Wait for the right moment before you take action.
+Card_B2RH13_desc,Be patient. Wait for the right moment before you take action.
+Card_B2CH27_desc,Your life is a sundance.
+Card_B2CH28_desc,When you hear me neigh you will feel the joy we have.
+Card_B2CH29_desc,Run with me and you will feel the strength and power inside you.
+Card_B2CH30_desc,Always be clear and brave.
+Card_B2CH31_desc,A wonderful and exciting world awaits you.
+Card_B2CH32_desc,It is wise to accept that there are things you can’t do.
+Card_B2CH33_desc,This is a magical moment. You can make a wish.
+Card_NLFH12_desc,Be yourself as you want others to see you.
+Card_NLRH12_desc,Be yourself as you want others to see you.
+Card_B2FH14_desc,Laugh from your heart and feel the joy.
+Card_B2RH14_desc,Laugh from your heart and feel the joy.
+Card_B2CH34_desc,Be open and take care of what is necessary.
+Card_B2RH15_desc,With me you will be safe and protected by heaven.
+Card_B2FH15_desc,With me you will be safe and protected by heaven.
+Card_B2CH35_desc,"You have Misty’s touch right now, and everything you start turns to gold."
+Card_NLCH13_desc,A generous heart is good at loving and being loved.
+Card_B2CH36_desc,Trust the moon and the stars. Then your dreams are coming through.
+Card_B2CH37_desc,Find a peaceful place where you can gather new energy.
+Card_NLCH15_desc,Allow yourself to wish for what you want.
+Card_ALFH11_desc,Something good is about to happen!
+Card_ALRH11_desc,Something good is about to happen!
+Card_B2CH38_desc,Think positively. Your happy thoughts will grow.
+Card_ALFH12_desc,Take what is good from the past and wrap it in the future.
+Card_ALRH12_desc,Take what is good from the past and wrap it in the future.
+Card_ALRH13_desc,Have the courage to trust yourself.
+Card_ALFH13_desc,Have the courage to trust yourself.
+Card_B2CH39_desc,You may join us if you like.
+Card_B2CH40_desc,Be careful every minute.
+Card_ALCH22_desc,Being kind and generous creates love in the world around you.
+Card_ALCH23_desc,Open your heart. Let its beauty shine.
+Card_B2FH16_desc,Make a plan and commit completely to it.
+Card_B2RH16_desc,Make a plan and commit completely to it.
+Card_B2CH41_desc,Those who don’t think of winning or losing have peace in mind.
+Card_B2CH42_desc,Do everything with joy. I love to see you happy.
+Card_B2RH17_desc,Your dreams are coming through. I am here to help you trust.
+Card_B2FH17_desc,Your dreams are coming through. I am here to help you trust.
+Card_ALCH24_desc,Focus your energy on a special purpose and it will be more powerful.
+Card_B2CH43_desc,I am the spirit of your inner child. Be joyful and see the world as a magical place.
+Card_B2FH18_desc,Run with me and feel the power.
+Card_B2RH18_desc,Run with me and feel the power.
+Card_NLRH14_desc,Enjoy a life of beauty and ease.
+Card_NLFH14_desc,Enjoy a life of beauty and ease.
+Card_NLCH16_desc,Be honest and do things with love.
+Card_NLCH17_desc,See and hear the magic all around you.
+Card_NLCH18_desc,Give others the gift of your love.
+Card_B2CH44_desc,Listen to your dreams. What they tell you is important.
+Card_B2FH19_desc,Magical opportunities surround you.
+Card_B2RH19_desc,Magical opportunities surround you.
+Card_B2CH45_desc,Join me and we will be happy together.
+Card_B2CH46_desc,Be mindful of your senses and your intuition.
+Card_B2CH47_desc,Take a chance and follow your heart.
+Card_B2CH48_desc,Make your goals magnificent.
+Card_ALCH25_desc,You cannot lose your real treasure. Faith opens big doors.
+Card_B2CH49_desc,Goodness and generosity create loving energy.
+Card_B2RH20_desc,You are more powerful than you realize. It is safe and good for you to be powerful.
+Card_B2FH20_desc,You are more powerful than you realize. It is safe and good for you to be powerful.
+Card_B2CH50_desc,Understand the past. Hold on to the great things and move forward alone.
+Card_NLRH15_desc,Beauty and mystery go hand in hand.
+Card_NLFH15_desc,Beauty and mystery go hand in hand.
+Card_NLFH16_desc,Let the sun shine through the darkness and light your path.
+Card_NLRH16_desc,Let the sun shine through the darkness and light your path.
+Card_B2CH51_desc,Believe in your worth. You are valuable.
+Card_NLCH21_desc,You are unique. Let others see what makes you special.
+Card_B2CH52_desc,Seize the day.
+Card_B2CH53_desc,It is not what you do but who you are that is important.
+Card_B2CH54_desc,Retreat from conflicts and go to where you feel safe.
+Card_B2CH55_desc,Be resolute and energetic in what you do.
+Card_B2RH22_desc,The whole world is at your feet.
+Card_B2FH22_desc,The whole world is at your feet.
+Card_ALCH26_desc,Music and dancing give us energy.
+Card_NLCH24_desc,Learn to trust in the people who care about you.
+Card_NVFH15_desc,I give you courage. Now you can release your fears.
+Card_NVFH15_desc,I give you courage. Now you can release your fears.
+Card_B2RH24_desc,Paradise is a state of mind.
+Card_B2FH24_desc,Paradise is a state of mind.
+Card_B2FH25_desc,Follow me beneath the waves. See the beauty and the space.
+Card_B2RH25_desc,Follow me beneath the waves. See the beauty and the space.
+Card_ALFH15_desc,Always expect the best.
+Card_ALRH15_desc,Always expect the best.
+Card_ALCH27_desc,You are a great person. Enjoy being yourself!
+Card_ALRH16_desc,The powers of the universe flow around you and in you. Let them guide you.
+Card_ALFH16_desc,The powers of the universe flow around you and in you. Let them guide you.
+Card_NLCH25_desc,Believe in life and everything it has to offer you.
+Card_ALFH17_desc,Spread your joy around for all to share.
+Card_ALRH17_desc,Spread your joy around for all to share.
+Card_ALCH28_desc,We all have unique gifts we can share by working together.
+Card_NLCH26_desc,Bring all that is good in life to your friendships.
+Card_B2CH56_desc,I love your company. Let’s have a good time together.
+Card_B2FH26_desc,I am your gift from the sea. Learn my tricks from me.
+Card_B2RH26_desc,I am your gift from the sea. Learn my tricks from me.
+Card_B2CH57_desc,Retreat and gather new energy for taking steps on the road.
+Card_B2CH58_desc,Spend time with me and you will get your heart’s desire.
+Card_B2RH27_desc,You always have a choice.
+Card_B2FH27_desc,You always have a choice.
+Card_B2CH09_desc,Don’t be afraid. Show who you are.
+Card_AJCH01_desc,Finishing what you started gives you energy.
+Card_AJCH02_desc,Your kindness is as sweet as a candy.
+Card_AJCH03_desc,Real friends can always tell each other the truth.
+Card_AJCH04_desc,Follow your heart’s desire.
+Card_AJCH05_desc,Feel the courage inside you.
+Card_AJCH06_desc,Share your good feelings and they will come back to you.
+Card_AJCH07_desc,Don’t be afraid of your darkness. It protects the light inside you.
+Card_AJCH08_desc,Look for the truth in unexpected places.
+Card_AJCH09_desc,Begin your story with a dream that inspires you.
+Card_AJCH10_desc,Learn more about your family. You will feel closer to them.
+Card_AJCH11_desc,Be the hero in your own story.
+Card_AJCH12_desc,"Look to the sky for comfort. Above the clouds, it is always blue."
+Card_AJCH13_desc,"Gentleness, honesty and love pave the way for a fruitful friendship."
+Card_AJCH14_desc,Every moment is the beginning of something new.
+Card_AJCH15_desc,We never outgrow our need to be loved.
+Card_AJCH16_desc,Life is kind to those who dare to dream.
+Card_AJCH17_desc,Focus your energy and love with all your heart.
+Card_AJCH18_desc,I will keep you safe.
+Card_AJCH19_desc,Don’t be afraid to make mistakes. They help you grow.
+Card_AJCH20_desc,I will help you to stay in a steady flow of abundance.
+Card_AJCH21_desc,The fall of every dusk recalls another day that you added magic to the world.
+Card_AJCH22_desc,Be a light in the lives of your friends.
+Card_AJCH23_desc,Write down your fondest memories and keep them alive forever.
+Card_AJCH24_desc,Things aren't always as they appear.
+Card_AJCH25_desc,Forgive yourself and allow your imagination to heal.
+Card_AJCH26_desc,Greet the morning sun. Let it inspire you.
+Card_AJCH27_desc,Have the courage to trust yourself.
+Card_AJCH28_desc,You’ve come a long way. Take some time to rest.
+Card_AJCH29_desc,I guard the past to protect the future.
+Card_AJCH30_desc,Your dreams create loving energy.
+Card_AJCH31_desc,The path is forged by those before you. Continue it onwards for those after.
+Card_AJCH32_desc,The stars will remember your story.
+Card_AJCH33_desc,A new opportunity to love and be loved comes with every dawn.
+Card_AJCH34_desc,"Have the confidence to do what is right, no matter how hard it seems."
+Card_AJCH35_desc,Find a quiet place where you can think and dream in peace.
+Card_AJCH36_desc,Discovering your roots allows you to find where you belong.
+Card_AJCH37_desc,One creative thought can start a storm of good ideas.
+Card_AJCH38_desc,I give you courage. Now you can release your fears.
+Card_AJCH39_desc,Memories are a unique treasure. Cherish and preserve them.
+Card_AJCH40_desc,"Try not to find fear in the night, but peace."
+Card_AJCH41_desc,Some people don’t understand that your beauty comes from within.
+Card_AJCH42_desc,Think positive every day! Feel the bliss of joy and energy that comes with it.
+Card_AKCH01_desc,Think positive every day! Feel the bliss of joy and energy that comes with it.
+Card_AJCH44_desc,Spend your time on the things that matter. The rest will take care of itself.
+Card_AJCH45_desc,Believe in your friends and help them find their wings.
+Warning_NeedFiona,"It looks like you can't get past this barrier. If you ever find Fiona, she will be able to clear the way."
+Warning_NeedJewel,"It looks like you can't get past this barrier. If you ever find Jewel, she will be able to clear the way."
+Warning_NeedThunder,"It looks like you can't get past this barrier. If you ever find Thunder, he will be able to clear the way."
+Warning_NeedBella,"It looks like you can't get past this barrier. If you ever find Bella, she will be able to clear the way."
+TravelToForest1,This path leads to the Ancient Forest.
+TravelToForest2,Do you want to go to the Ancient Forest?
+TravelToForest3,Let's go to the Forest!
+TravelToBeach1,This path leads to Whitewater Beach.
+TravelToBeach2,To the Beach! Let's go.
+TravelToBeach3,Shall we head to the Beach?
+TravelToOrchard1,This path leads back to the Orchard.
+TravelToOrchard2,This will take you back to the Orchard and the Farm.
+TravelToOrchard3,Shall we head back to the Orchard?
+Travel_StayHere1,You can't leave now! We've got things to do here!
+Travel_StayHere2,But we have a challenge to complete! Let's stay.
+Travel_StayHere3,No. Don't go. We've unfinished business here.
+HorseTired,I think your horse is too tired. Let's take it back to the farm.
+Mistimed_Jump,Too late!
+PauseScreenTitle,Paused
+IDS_AbandonEvent,Return to Farm
+IDS_AbandonEventCaption,Go back to the Farm
+IDS_ConfirmAbandon,Confirm Return
+IDS_ConfirmAbandonCaption,Are you sure you wish to go back to the farm?
+ReplayCameraChase,Chase
+ReplayCameraOrbit,Orbit
+ReplayCameraCinematic,Cinematic
+ReplayCameraTV,TV
+IDS_ReplayScreenPauseText,Pause Menu
+IDS_CreditsBody,"Developed by
+TRANSMISSION GAMES
+
+Producer
+Cameron Lee
+
+Lead Designer
+Luc Le Quiniat
+
+Lead Programmer
+Uwe Pachler
+
+Lead Artists
+Paul Kelsey
+Clive Hambly
+
+Lead Tester
+Ree Hegh
+
+Associate Producer
+Justin Sneddon
+
+Programmers
+Andrew Glover
+
+Artists
+Adam Moder
+Adam Rudd
+Aaron Mak
+Sam Crook
+
+User Interface Artist
+Fareeda Unnisa
+
+Testers
+Robert Hamilton
+Lachlan Mason
+
+Music & Sound Effect Composer
+Laurence Maddy
+
+Music & Sound Effect Publisher
+Shock Records
+
+CEO
+Mike Fegan
+
+Head of Studio
+Tony Parks
+
+Technical Director
+Cameron Dunn
+
+Business and Strategy Director
+Ben Palmer
+
+Finance Manager
+Gavin Thompson
+
+Marketing & Public Relations Manager
+Tony Reed
+
+Operations Manager
+Andrew Niere
+
+IT Manager
+Ryan Clements
+
+HR Coordinator
+Marlene Ramos
+
+
+Special Thanks
+Justin Halliday
+Luke Carpenter
+Jamie Andersen
+Glen Stuart
+Andrew Hung
+Peter Tse
+David Cole
+Henrik Axelsson
+Wayne Byrden
+Kamil Hamra
+Ben Walsh
+Patrick Rousetti
+Shandor Farhenfort
+Marc Coustley
+Mel Chapman
+Kieran Tobin
+Stuart McVicar
+Paul Baulch
+Muliawan Wijaya
+Alex Lindsay
+Stephen Honegger
+Adam Briggs
+Shane Collier
+Thuyen Nguyen
+Rhys Quinert
+Alex McNeilly
+Robert Gardin
+Will van Rompaey
+Jamie Lamb
+
+
+
+Published By
+Codemasters
+
+Producer
+Jamie Firth
+Brand Manager
+Leon Sanders
+Localisation
+Daniel Schaefers
+Licensing
+Toby Heap
+Rosetta Rizzo
+Q.A. General Manager
+Eddy Di Luccio
+Functional Q.A. Manager
+Danny Beilard
+Q.A. Team Lead
+Pete Barker
+Q.A. Technicians
+Stacey Pace
+James Conway
+Compliance & Code Security Manager
+Gary Cody
+Compliance Lead
+Ben Fell
+Compliance Technician
+Simon Turner
+
+Hidden City Games
+
+Business Development & Management
+Peter Adkison
+Joshua Howard
+George Stetar
+Producer
+Jeff Combos
+IP Development
+Steve Conard
+Mike Boozer
+Interactive Art Director
+Phil Trumbo
+Special Thanks To
+Scott Norris
+Paul Peterson
+Kyle Shannon
+
+conceptcard
+
+Creator & Director
+Gitte Odder Brændgaard
+Artwork By
+Anita Laustsen
+Anne Poulsen
+Birgitte Frier Stewart
+Fie Tholander
+Jennifer Meyer
+Artwork By
+Lotte Krogkær
+Louise Christensen
+Lykke Bianca Petersen
+Maria Nymark
+Phil Trumbo
+Artwork By
+Quinton Hoover
+Rebecca Guay
+Rikke Lindskov Loft
+Silvio Aebischer
+Spoops
+Artwork By
+Tanja Kreutzfeld
+
+© 2008 Hidden City Games, Inc.
+© 2005–2008 conceptcard.
+All rights reserved.
+BELLA SARA is a trademark of
+conceptcard and is used by
+Hidden City Games under license.
+Licensed by Granada Ventures Ltd.
+
+Granada Ventures
+
+Creative Service Director
+Michelle Smith
+Licensing & Merchandising Director
+Melanie Beer"
+wac_common,CMS#-HRFS-LKZV
+wac_rare,CMS#-SMFK-NWLG
+wac_foil,CMS#-RWLX-NFZQ
+wac_energy,CMS#-XLNP-RFBW
+wac05,CMS#-KDBW-BRGM
+wac06,CMS#-VZNK-NQXF
+wac_alltrophies,CMS#-MDTN-HFJK
+wac08,CMS#-CXHD-SPFB
+wac09,CMS#-WBTS-MRDK
+wac10,CMS#-DTNM-PHZS
+Menu_Webcodes_message,This is where your Web Site Codes are stored. \You can win these by accomplishing many different things in North of North!
+Menu_Webcodes_received,You’ve won some online awards! \Enter these codes on the Bella Sara website.
+IDS_WebInstructions,Enter these codes on the Bella Sara website.
+card_swap_type_dups_none,You don't have any cards of this kind with duplicates.
+card_swap_type_dups_single,You have 1 card of this kind with duplicates.
+card_swap_type_dups_multiple,You have @N cards of this kind with duplicates.
+you_selected_single,You have selected 1 card.
+you_selected_multiple,You have selected @N cards.
+you_offer_none,Decide which cards you want to swap.
+you_have_none,You don't have this card!
+you_have_single,You already have this card.
+you_have_multiple,You have @N copies of this card.
+challenge_nag_title,Notes Added
+new_horse_unlocked_title,New Horse Unlocked
+all_challenges_complete_title,All Challenges Complete
+new_items_in_stock_title,New Items
+card_collection_complete_title,Card Collection Complete
+IDS_PreHorseUnlocked,A new friend has joined your Stable!  You have just found
+IDS_PostHorseUnlocked,!  Why don't you visit and say hello?
+all_challenges_complete,You've completed every single challenge. \That wins you a very special reward!
+new_items_in_stock,Finnur has some new things for sale! \Why don't you take a look?
+pageant_lacking_clothes,I don't think you have all the clothes for this costume. \I'm sure you'll find them in the Shop though!
+challenge_failed_big,CHALLENGE FAILED!
+new_horse_big,YOU HAVE A NEW HORSE!
+save_and_quit_confirm,Save and Quit?
+save_game,Save Game?
+game_saved,Game Saved
+accept_challenge,Accept!
+no_shop_treats,No treats in stock at the moment! \Don't you have plenty already?
+trophy_name_gold,Gold
+trophy_name_silver,Silver
+trophy_name_bronze,Bronze
+tired_horse_seq_title,Tired Horse
+tired_horse_seq_body,@N is tired and has returned to the Stables.
+no_horse_ticker,Your horse has returned to the Stables. Go there and choose one to ride!
+no_horse_confirm,You haven't selected a horse to ride! \Are you sure you want to leave the Stables?
+new_challenge_label,NEW
+IDS_Intro1,Welcome to North of North!  My name is Freyja.  Let me show you around my Farm.
+IDS_IntroHouse,This is the Farmhouse. You have your own room here where you can keep all your personal things.
+IDS_IntroHouse2,You can use your room whenever you want to change your clothes or view your cards and awards.
+IDS_IntroPaddock,The Paddock is where you will find your current horse that you are riding.
+IDS_IntroPaddock2,"Here you can care for your horses. You can feed and groom them, or just give them a pat."
+IDS_IntroStables,"The Stables are where our lovely Bella Sara horses live. There’s only 1 horse inside at the moment, but we have space for 4 more."
+IDS_IntroStables2,"His name is Excelsior!  As you find new horses, you can choose them to go for a ride."
+IDS_IntroFrontGate,This archway leads out to the horse riding trails. It’s fun to explore the trails with your horses.
+IDS_IntroFrontGate2,You can also find useful and exciting things in them! Search the trails for scattered Horseshoes.
+IDS_IntroFrontGate3,They’re what we use for money here. I bet you’ll find some Bella Sara cards in the trails too!
+IDS_IntroFrontGate4,"You’ll find Bella Sara cards all over North of North. >Whenever you find some cards, I’ll present them to you when you return to the Farmyard. >Every card you find is added to your Card Collection, which you can inspect in your room here at the Farmhouse. >Some of these cards are especially important! >Those cards form Card Sets. >Complete a Card Set and a new horse will appear in the Stables! >You can check on progress with your latest Card Set too, here in your room."
+IDS_IntroPaddockX,"After a ride, it’s always good to check on your horses in the Paddock."
+IDS_IntroPaddockX2,Looking after your horse in the Paddock keeps your horses happy and healthy.
+IDS_IntroPaddockX3,"If a horse is really tired after a ride, it will come back to the Paddock on its own."
+IDS_IntroPaddockX4,"If this happens, visit the Paddock to care for the horse or choose another horse to ride from the Stables."
+IDS_IntroNotice,The Noticeboard is where people from all around post notes if they want some help.
+IDS_IntroNotice2,We also use it to announce special events and competitions.
+IDS_IntroNotice3,It’s good to join in and help people with things. You are sure to be rewarded generously!
+IDS_IntroShop,"Finnur, my husband, runs this shop. You can buy all sorts of things from him with your Pocket Money."
+IDS_IntroShop2,"Inside you will find clothes, horse tack and grooming equipment."
+IDS_IntroShopFin,Hello there!  I'm Finnur the shopkeeper.  Come see me whenever you need to make a purchase.  I'm always open!
+IDS_IntroEnd,And that's my farm.  Go meet Excelsior in the paddock then take him out for a ride.
+TutorialText_01,Hello. What a lovely day for a ride! Excelsior is a lovely horse. You will find that he is very gentle and trusting. Let me give you a few tips on how to look after him.
+TutorialText_02,You can steer your horse by pressing left (A key) or right(D key). To control your horse's speed use forward(W) and back(S).
+TutorialText_03,You can spur your horse on for a short burst of speed by pressing the SHIFT key. But be careful. This will tire your horse and they may need to have a rest.
+TutorialText_04,"If you want to stop and have a break at any time, hit the ESC key to pause the game."
+TutorialText_05,"When you approach a jump, use the SPACE bar to tell your horse to jump."
+TutorialText_06,"As you ride your horse they will get tired and dirty. If your horse is too tired, you will have to take it back to the farm."
+TutorialText_07,You can look after your horse back at Freyja's farm in the paddock. Groom and feed your horses so that they can be refreshed and ready to ride again.
+TutorialText_08,There will be some areas that are blocked off by gates. As you find new horses you will be able to get through the gates and find new places to explore.
+TutorialText_08a,"Look, what’s that up ahead? It’s a Bella Sara card!"
+TutorialText_08b,"Quick, pick it up!"
+TutorialText_09,When you return to the farm you can see what cards you have collected on your ride.
+TutorialText_10,"These are horse-shoes. You can buy things with them in Finnur's shop, so collect as many of them as you can."
+TutorialText_11,"You can go back to the farm whenever you like by riding to the gates, or travel back to the farm instantly by choosing the Return to Farm option on the pause menu."
+BeachChallenge1_Name,8. Treasure Hunt
+BeachChallenge1_ShortDesc,Finnur has some clues that will lead you to treasure!
+BeachChallenge1_Location,Beach
+BeachChallenge1_Doing,Follow the clues
+BeachChallenge1_TimeAmt,0.06
+BeachChallenge1_Reward,100 Horseshoes
+BeachChallenge1_Description,There is a hidden treasure chest on the beach. Follow the clues that Finnur will give you. Each clue will lead to a shiny star. Collect them all and they’ll lead you to the treasure!
+BeachChallenge2_Name,9. Whitewater Beach Trail Ace
+BeachChallenge2_ShortDesc,Beat a time of 3:00 on the Bronze Beach trail.
+BeachChallenge2_Location,Beach
+BeachChallenge2_Doing,Race the clock
+BeachChallenge2_TimeAmt,0.06
+BeachChallenge2_Reward,The Bronze Beach Cup and 100 Horseshoes
+BeachChallenge2_Description,It's time to prove that you've mastered the twists and turns of Whitewater Beach.  Ride from one end of the trail to the other within the time limit to win the Bronze Whitewater Beach Cup!
+BeachChallenge3_Name,10. Find the parrot
+BeachChallenge3_ShortDesc,The captain's parrot has gone missing on the Beach. Can you find it?
+BeachChallenge3_Doing,Find the parrot
+BeachChallenge3_Location,Beach
+BeachChallenge3_Reward,100 Horseshoes
+BeachChallenge3_TimeAmt,0.06
+BeachChallenge3_Description,Captain Eidar's parrot has escaped his perch and flown off to Whitewater Beach.  Catch him and the Captain is sure to give you a big reward!
+BeachChallenge4_Name,11. Shell collection
+BeachChallenge4_ShortDesc,Collect shells for necklaces.
+BeachChallenge4_Doing,Collect 10 shells
+BeachChallenge4_Location,Beach
+BeachChallenge4_Reward,100 Horseshoes
+BeachChallenge4_TimeAmt,0.06
+BeachChallenge4_Description,A friend of mine needs pretty sea shells to make into a necklace for her daughter.  Quickly gather some shells from Whitewater Beach and maybe she'll give you a reward!
+BeachChallenge5_Name,18. Treasure Hunt
+BeachChallenge5_ShortDesc,Finnur has some more clues that will lead you to treasure!
+BeachChallenge5_Doing,Follow the clues
+BeachChallenge5_Location,Beach
+BeachChallenge5_Reward,100 Horseshoes
+BeachChallenge5_TimeAmt,0.06
+BeachChallenge5_Description,There is another hidden treasure chest on the beach. Follow the clues that Finnur will give you. Each clue will lead to a shiny star. Collect them all and they’ll lead you to the treasure!
+BeachChallenge6_Name,19. Whitewater Beach Trail Master
+BeachChallenge6_ShortDesc,Race around a course on the beach as quickly as you can.
+BeachChallenge6_Location,Beach
+BeachChallenge6_Doing,Race the clock
+BeachChallenge6_TimeAmt,0.06
+BeachChallenge6_Reward,The Silver Beach Cup and 100 Horseshoes
+BeachChallenge6_Description,It's time to prove that you've mastered the twists and turns of Whitewater Beach.  Ride from one end of the trail to the other within the time limit to win the Silver Whitewater Beach Cup!
+BeachChallenge7_Name,20. Find the fairy
+BeachChallenge7_ShortDesc,I need to send a message to a fairy on the beach. Can you find her?
+BeachChallenge7_Location,Beach
+BeachChallenge7_Doing,Find the Green fairy
+BeachChallenge7_TimeAmt,0.06
+BeachChallenge7_Reward,100 Horseshoes
+BeachChallenge7_Description,I want to invite the Green fairy to a party. Can you go and find her on the beach and give her an invitation for me? I will give you a reward if you do!
+BeachChallenge8_Name,21. Shell collection
+BeachChallenge8_ShortDesc,Collect shells for necklaces.
+BeachChallenge8_Location,Beach
+BeachChallenge8_Doing,Collect 20 shells
+BeachChallenge8_TimeAmt,0.08
+BeachChallenge8_Reward,100 Horseshoes
+BeachChallenge8_Description,Now everyone wants a shell necklace! My friend needs more sea shells to make into necklaces.  Quickly gather some shells from Whitewater Beach and maybe she'll give you a reward!
+BeachChallenge9_Name,28. Treasure Hunt
+BeachChallenge9_ShortDesc,Finnur has some more clues that will lead you to treasure!
+BeachChallenge9_Location,Beach
+BeachChallenge9_Doing,Follow the clues
+BeachChallenge9_TimeAmt,0.13
+BeachChallenge9_Reward,100 Horseshoes
+BeachChallenge9_Description,We’ve found clues to another hidden treasure chest on the beach. Follow the clues that Finnur will give you. Each clue will lead to a shiny star. Collect them all and they’ll lead you to the treasure!
+BeachChallenge10_Name,29. Whitewater Beach Trail Champion
+BeachChallenge10_ShortDesc,Race around a long course on the beach as quickly as you can.
+BeachChallenge10_Location,Beach
+BeachChallenge10_Doing,Race the clock
+BeachChallenge10_TimeAmt,0.13
+BeachChallenge10_Reward,The Gold Beach Cup and 100 Horseshoes
+BeachChallenge10_Description,It's time to prove that you've mastered the twists and turns of Whitewater Beach.  Ride from one end of the trail to the other within the time limit to win the Gold Beach Cup!
+BeachChallenge11_Name,32. Finnur's lost hat
+BeachChallenge11_ShortDesc,The wind took Finnur's hat on the beach. Can you find it?
+BeachChallenge11_Location,Beach
+BeachChallenge11_Doing,Find the hat
+BeachChallenge11_TimeAmt,0.13
+BeachChallenge11_Reward,100 Horseshoes
+BeachChallenge11_Description,I lost my hat again while travelling along the Beach. I'm sure it will still be blowing around in there somewhere!  Find it for me and I'll give you a reward.
+BeachChallenge12_Name,33. Shell collection
+BeachChallenge12_ShortDesc,Collect shells for my friend to make necklaces.
+BeachChallenge12_Location,Beach
+BeachChallenge12_Doing,Collect 30 shells
+BeachChallenge12_TimeAmt,0.13
+BeachChallenge12_Reward,100 Horseshoes
+BeachChallenge12_Description,People can’t get enough of the shell necklaces! Can you gather some more shells from Whitewater Beach and my friend will give you a reward!
+ForestChallenge1_Name,12. Mushroom Collection
+ForestChallenge1_ShortDesc,Collect 10 mushrooms for soup.
+ForestChallenge1_Location,Forest
+ForestChallenge1_Doing,Collect 10 Mushrooms
+ForestChallenge1_TimeAmt,0.06
+ForestChallenge1_Reward,100 Horseshoes
+ForestChallenge1_Description,One of our grandchildren is poorly and I want to make him some of my special mushroom soup. Explore the Ancient Forest and collect all the mushrooms you can find!
+ForestChallenge2_Name,13. Ancient Forest Trail Ace
+ForestChallenge2_ShortDesc,Beat a time of 3:30 on the Bronze Forest trail.
+ForestChallenge2_Location,Forest
+ForestChallenge2_Doing,Race the clock
+ForestChallenge2_TimeAmt,0.04
+ForestChallenge2_Reward,The Bronze Forest Cup and 100 Horseshoes
+ForestChallenge2_Description,It's time to prove that you've mastered the twists and turns of the Ancient Forest. Ride from one end of the trail to the other within the time limit to win the Bronze Ancient Forest Cup!
+ForestChallenge3_Name,14. Find the parrot
+ForestChallenge3_ShortDesc,The captain’s parrot has gone missing in the Forest. Can you find it?
+ForestChallenge3_Location,Forest
+ForestChallenge3_Doing,Find the parrot
+ForestChallenge3_TimeAmt,0.06
+ForestChallenge3_Reward,100 Horseshoes
+ForestChallenge3_Description,"Captain Eidar has lost his parrot again! That bird just won’t stay at home. If you go and find it for him once more, he’ll give you another reward."
+ForestChallenge4_Name,15. Treasure Hunt
+ForestChallenge4_ShortDesc,Finnur has some more clues that will lead you to treasure!
+ForestChallenge4_Location,Forest
+ForestChallenge4_Doing,Follow the clues
+ForestChallenge4_TimeAmt,0.13
+ForestChallenge4_Reward,100 Horseshoes
+ForestChallenge4_Description,There is a hidden treasure chest in the forest. Follow the clues that Finnur will give you. Each clue will lead to a shiny star. Collect them all and they’ll lead you to the treasure!
+ForestChallenge5_Name,22. Ancient Forest Trail Master
+ForestChallenge5_ShortDesc,Beat a time of 2:30 on the Silver Forest trail.
+ForestChallenge5_Location,Forest
+ForestChallenge5_Doing,Race the clock
+ForestChallenge5_TimeAmt,0.06
+ForestChallenge5_Reward,The Silver Forest Cup and 100 Horseshoes
+ForestChallenge5_Description,It's time to prove that you've mastered the twists and turns of the Ancient Forest. Ride from one end of the trail to the other within the time limit to win the Silver Ancient Forest Cup!
+ForestChallenge6_Name,23. Finnur's lost hat
+ForestChallenge6_ShortDesc,The wind took Finnur's hat in the forest. Can you find it?
+ForestChallenge6_Location,Forest
+ForestChallenge6_Doing,Find the hat
+ForestChallenge6_TimeAmt,0.13
+ForestChallenge6_Reward,100 Horseshoes
+ForestChallenge6_Description,I lost my hat while travelling through the Ancient Forest. I'm sure it will still be blowing around in there somewhere!  Find it for me and I'll give you a reward.
+ForestChallenge7_Name,25. Mushroom Collection
+ForestChallenge7_ShortDesc,I’d like to try a different mushroom for a new batch of soup.
+ForestChallenge7_Location,Forest
+ForestChallenge7_Doing,Collect 20 Blue Mushrooms
+ForestChallenge7_TimeAmt,0.1
+ForestChallenge7_Reward,100 Horseshoes
+ForestChallenge7_Description,"I’ve noticed that there’s a new type of mushroom growing in the forest. Would you be able to gather some for me, so I can try them in a new soup."
+ForestChallenge8_Name,26. Treasure Hunt
+ForestChallenge8_ShortDesc,Finnur has some more clues that will lead you to treasure!
+ForestChallenge8_Location,Forest
+ForestChallenge8_Doing,Follow the clues
+ForestChallenge8_TimeAmt,0.08
+ForestChallenge8_Reward,100 Horseshoes
+ForestChallenge8_Description,Finnur has found another set of clues that lead to a treasure chest. Go to the forest and he will give them to you. See if you can find the treasure!
+ForestChallenge9_Name,27. Find the fairy
+ForestChallenge9_ShortDesc,There is a fairy in the forest. Can you find it?
+ForestChallenge9_Location,Forest
+ForestChallenge9_Doing,Find the Green fairy
+ForestChallenge9_TimeAmt,0.06
+ForestChallenge9_Reward,100 Horseshoes
+ForestChallenge9_Description,I have to get a message delivered to the Green Fairy that lives in the Forest. Would you be able to take the message for me? It is quite urgent.
+ForestChallenge10_Name,34. Treasure Hunt
+ForestChallenge10_ShortDesc,Finnur has some more clues that will lead you to treasure!
+ForestChallenge10_Location,Forest
+ForestChallenge10_Doing,Follow the clues
+ForestChallenge10_TimeAmt,0.13
+ForestChallenge10_Reward,100 Horseshoes
+ForestChallenge10_Description,There is a another hidden treasure chest in the forest. Each clue that Finnur gives you will lead to a shiny star. Collect them all and they’ll lead you to the treasure!
+ForestChallenge11_Name,35. Ancient Forest Trail Champion
+ForestChallenge11_ShortDesc,Beat a time of 4:00 on the Gold Forest trail.
+ForestChallenge11_Location,Forest
+ForestChallenge11_Doing,Race the clock
+ForestChallenge11_TimeAmt,0.08
+ForestChallenge11_Reward,The Gold Forest Cup and 100 Horseshoes
+ForestChallenge11_Description,It's time to prove that you've mastered the twists and turns of the Ancient Forest. Ride from one end of the trail to the other within the time limit to win the Gold Ancient Forest Cup!
+ForestChallenge12_Name,36. Mushroom Collection
+ForestChallenge12_ShortDesc,I need enough mushrooms for a large batch of soup.
+ForestChallenge12_Location,Forest
+ForestChallenge12_Doing,Collect 30 Blue Mushrooms
+ForestChallenge12_TimeAmt,0.08
+ForestChallenge12_Reward,100 Horseshoes
+ForestChallenge12_Description,"My mushroom soup is so popular now that everyone wants some! Can you collect 30 mushrooms for me, so I can make enough for the whole village?"
+OrchardChallenge1_Name,1. Treasure Hunt
+OrchardChallenge1_ShortDesc,Finnur has some more clues that will lead you to treasure!
+OrchardChallenge1_Location,Orchard
+OrchardChallenge1_Doing,Follow the clues
+OrchardChallenge1_TimeAmt,0.13
+OrchardChallenge1_Reward,100 Horseshoes
+OrchardChallenge1_Description,Hidden in the Orchard is a special treasure chest. Follow the clues that Finnur will give you. Each clue will lead you to a shiny star. Collect them all and they’ll lead you to the treasure.
+OrchardChallenge2_Name,2. Finnur's lost hat
+OrchardChallenge2_ShortDesc,The wind took Finnur's hat in the Orchard. Can you find it?
+OrchardChallenge2_Location,Orchard
+OrchardChallenge2_Doing,Find the hat
+OrchardChallenge2_TimeAmt,0.13
+OrchardChallenge2_Reward,100 Horseshoes
+OrchardChallenge2_Description,I lost my hat while travelling through the Orchard. I'm sure it will still be blowing around in there somewhere!  Find it for me and I'll give you a reward.
+OrchardChallenge3_Name,3. Magical Orchard Trail Ace
+OrchardChallenge3_ShortDesc,Beat a time of 3:00 on the Bronze Orchard trail.
+OrchardChallenge3_Location,Orchard
+OrchardChallenge3_Doing,Race the clock
+OrchardChallenge3_TimeAmt,0.04
+OrchardChallenge3_Reward,The Bronze Orchard Cup and 100 Horseshoes
+OrchardChallenge3_Description,It's time to prove that you've mastered the twists and turns of the Magical Orchard.  Ride from one end of the trail to the other within the time limit to win the Bronze Magical Orchard Cup!
+OrchardChallenge4_Name,4. Fruit Collection
+OrchardChallenge4_ShortDesc,Collect 10 pieces of Fruit scattered around the Orchard.
+OrchardChallenge4_Location,Orchard
+OrchardChallenge4_Doing,Collect 10 Fruits
+OrchardChallenge4_TimeAmt,0.06
+OrchardChallenge4_Reward,100 Horseshoes
+OrchardChallenge4_Description,It's harvest time in the Magical Orchard and we need to collect the fruit quickly before it spoils. Pick up all the fruit within the time limit to earn a reward!
+OrchardChallenge5_Name,5. Magical Orchard Trail Master
+OrchardChallenge5_ShortDesc,Beat a time of 4:00 on the Silver Orchard trail.
+OrchardChallenge5_Location,Orchard
+OrchardChallenge5_Doing,Race the clock
+OrchardChallenge5_TimeAmt,0.06
+OrchardChallenge5_Reward,The Silver Orchard Cup 100 Horseshoes
+OrchardChallenge5_Description,It's time to prove that you've mastered the twists and turns of the Magical Orchard.  Ride from one end of the trail to the other within the time limit to win the Silver Magical Orchard Cup!
+OrchardChallenge6_Name,6. Find the fairy
+OrchardChallenge6_ShortDesc,There is a fairy in the Orchard. Can you find it?
+OrchardChallenge6_Location,Orchard
+OrchardChallenge6_Doing,Find the fairy
+OrchardChallenge6_TimeAmt,0.06
+OrchardChallenge6_Reward,100 Horseshoes
+OrchardChallenge6_Description,"The blue fairy is running out of fairy dust! How will she be able to fly! Can you quickly take her a new supply? She’s in the Orchard at the moment. If you go quickly, you’ll be able to catch her!"
+OrchardChallenge7_Name,7. Treasure Hunt
+OrchardChallenge7_ShortDesc,Finnur has some more clues that will lead you to treasure!
+OrchardChallenge7_Location,Orchard
+OrchardChallenge7_Doing,Follow the clues
+OrchardChallenge7_TimeAmt,0.08
+OrchardChallenge7_Reward,100 Horseshoes
+OrchardChallenge7_Description,There is another hidden treasure chest for you to find in the orchard. Follow the clues that Finnur will give you. Each clue will lead you to a shiny star. Collect them all and they’ll lead you to the treasure.
+OrchardChallenge8_Name,16. Fruit Collection
+OrchardChallenge8_ShortDesc,Collect 20 pieces of Fruit scattered around the Orchard.
+OrchardChallenge8_Location,Orchard
+OrchardChallenge8_Doing,Collect 20 Blue Fruits
+OrchardChallenge8_TimeAmt,0.1
+OrchardChallenge8_Reward,100 Horseshoes
+OrchardChallenge8_Description,"The Northern Lights have worked their magic, so it’s harvest time again! Collect the fruit quickly before it spoils. Pick up all the fruit within the time limit to earn a reward!"
+OrchardChallenge10_Name,17. Magical Orchard Trail Champion
+OrchardChallenge10_ShortDesc,Beat a time of 6:00 on the Gold Forest trail.
+OrchardChallenge10_Location,Orchard
+OrchardChallenge10_Doing,Race the clock
+OrchardChallenge10_TimeAmt,0.08
+OrchardChallenge10_Reward,The Gold Orchard Cup and 100 Horseshoes
+OrchardChallenge10_Description,It's time to prove that you've mastered the twists and turns of the Magical Orchard.  Ride from one end of the trail to the other within the time limit to win the Gold Magical Orchard Cup!
+OrchardChallenge9_Name,24. Find the parrot
+OrchardChallenge9_ShortDesc,The captain's parrot has gone missing again! Can you find it in the Orchard?
+OrchardChallenge9_Location,Orchard
+OrchardChallenge9_Doing,Find the parrot
+OrchardChallenge9_TimeAmt,0.06
+OrchardChallenge9_Reward,100 Horseshoes
+OrchardChallenge9_Description,"Can you believe it! The Captain has lost his parrot again. He bought a new cage, but forgot to close the door!.The parrot has flown off into the Orchard. Can you please go and find it for him?"
+OrchardChallenge11_Name,30. Fruit Collection
+OrchardChallenge11_ShortDesc,Collect 25 pieces of Fruit scattered around the Orchard.
+OrchardChallenge11_Location,Orchard
+OrchardChallenge11_Doing,Collect 25 Red Fruits
+OrchardChallenge11_TimeAmt,0.13
+OrchardChallenge11_Reward,100 Horseshoes
+OrchardChallenge11_Description,"The Northern Lights have worked their magic once more, so there’s a new harvest! Collect the fruit quickly before it spoils. Pick up all the fruit within the time limit to earn a reward!"
+OrchardChallenge12_Name,31. Treasure Hunt
+OrchardChallenge12_ShortDesc,Finnur has some more clues that will lead you to treasure!
+OrchardChallenge12_Location,Orchard
+OrchardChallenge12_Doing,Follow the clues
+OrchardChallenge12_TimeAmt,0.13
+OrchardChallenge12_Reward,100 Horseshoes
+OrchardChallenge12_Description,Finnur has some more clues for you to follow! Each clue will lead you to a shiny star. Collect them all and they’ll lead you to another treasure chest and a special reward.
+ChallengeFairy1_Intro,Can you find the fairy and deliver the invitation to her? Find her before the timer counts down.
+ChallengeFairy1_Halfway,Half your time has gone! Hurry!
+ChallengeFairy1_AlmostFinished,You only have ten seconds left.
+ChallengeFairy1_Failed,Whoops. You ran out of time. Try again later.
+ChallengeFairy1_Success,Congratulations! You've delivered the invitation to the fairy.
+ChallengeFairy2_Intro,Can you find the fairy and deliver the message to her? Find her before the timer counts down.
+ChallengeFairy2_Halfway,Half your time has gone! Hurry!
+ChallengeFairy2_AlmostFinished,You only have ten seconds left.
+ChallengeFairy2_Failed,Whoops. You ran out of time. Try again later.
+ChallengeFairy2_Success,Congratulations! You've delivered the message to the fairy.
+ChallengeFairy3_Intro,Can you find the fairy and deliver the message to her? Find her before the timer counts down.
+ChallengeFairy3_Halfway,Half your time has gone! Hurry!
+ChallengeFairy3_AlmostFinished,You only have ten seconds left.
+ChallengeFairy3_Failed,Whoops. You ran out of time. Try again later.
+ChallengeFairy3_Success,Congratulations! You've delivered the message to the fairy.
+ChallengeHat1_Intro,"Finnur needs to head into town soon, but he needs his hat. Can you find his hat before he has to leave?"
+ChallengeHat1_Halfway,Half your time has gone! Hurry!
+ChallengeHat1_AlmostFinished,You only have ten seconds left.
+ChallengeHat1_Failed,Whoops. You ran out of time. Try again later.
+ChallengeHat1_Success,Congratulations! You found the hat for Finnur. Now his head will be warm!
+ChallengeHat2_Intro,"Finnur needs to head into town soon, but he needs his hat. Can you find his hat before he has to leave?"
+ChallengeHat2_Halfway,Half your time has gone! Hurry!
+ChallengeHat2_AlmostFinished,You only have ten seconds left.
+ChallengeHat2_Failed,Whoops. You ran out of time. Try again later.
+ChallengeHat2_Success,Congratulations! You found the hat for Finnur. Now his head will be warm!
+ChallengeHat3_Intro,"Finnur needs to head into town soon, but he needs his hat. Can you find his hat before he has to leave?"
+ChallengeHat3_Halfway,Half your time has gone! Hurry!
+ChallengeHat3_AlmostFinished,You only have ten seconds left.
+ChallengeHat3_Failed,Whoops. You ran out of time. Try again later.
+ChallengeHat3_Success,Congratulations! You found the hat for Finnur. Now his head will be warm!
+ChallengeParrot1_Intro,The Captain has lost his parrot. Where can it be? Can you find it for him?
+ChallengeParrot1_Halfway,Half your time has gone! Hurry!
+ChallengeParrot1_AlmostFinished,You only have ten seconds left.
+ChallengeParrot1_Failed,Whoops. You ran out of time. Try again later.
+ChallengeParrot1_Success,Congratulations! You found the Captain's parrot. He will be very pleased.
+ChallengeParrot2_Intro,The Captain has lost his parrot. Where can it be? Can you find it for him?
+ChallengeParrot2_Halfway,Half your time has gone! Hurry!
+ChallengeParrot2_AlmostFinished,You only have ten seconds left.
+ChallengeParrot2_Failed,Whoops. You ran out of time. Try again later.
+ChallengeParrot2_Success,Congratulations! You found the Captain's parrot. He was getting very worried.
+ChallengeParrot3_Intro,The Captain has lost his parrot. Where can it be? Can you find it for him?
+ChallengeParrot3_Halfway,Half your time has gone! Hurry!
+ChallengeParrot3_AlmostFinished,You only have ten seconds left.
+ChallengeParrot3_Failed,Whoops. You ran out of time. Try again later.
+ChallengeParrot3_Success,Congratulations! You found the Captain's parrot. I'm sure he will take better care now.
+ChallengePonyExpress1_Intro,Let's see if you can win the bronze cup. Beat the time before it counts down and you'll receive a reward!
+ChallengePonyExpress1_Halfway,Half your time has gone! Hurry!
+ChallengePonyExpress1_AlmostFinished,You only have ten seconds left.
+ChallengePonyExpress1_Failed,Whoops. You ran out of time. Try again later.
+ChallengePonyExpress1_Success,You have beaten the time and won a trophy! You can view it in your room back at the farm.
+ChallengePonyExpress2_Intro,Let's see if you can win the silver cup. Beat the time before it counts down and you'll receive a reward!
+ChallengePonyExpress2_Halfway,Half your time has gone! Hurry!
+ChallengePonyExpress2_AlmostFinished,You only have ten seconds left.
+ChallengePonyExpress2_Failed,Whoops. You ran out of time. Try again later.
+ChallengePonyExpress2_Success,You have beaten the time and won a trophy! You can view it in your room back at the farm.
+ChallengePonyExpress3_Intro,Let's see if you can win the gold cup. Beat the time before it counts down and you'll receive a reward!
+ChallengePonyExpress3_Halfway,Half your time has gone! Hurry!
+ChallengePonyExpress3_AlmostFinished,You only have ten seconds left.
+ChallengePonyExpress3_Failed,Whoops. You ran out of time. Try again later.
+ChallengePonyExpress3_Success,"Well done, you've beaten the time! You're the fastest rider in the Forest! You can view your cup back in your room at the farm."
+ChallengePonyExpress4_Intro,Let's see if you can win the bronze cup. Beat the time before it counts down and you'll receive a reward!
+ChallengePonyExpress4_Halfway,Half your time has gone! Hurry!
+ChallengePonyExpress4_AlmostFinished,You only have ten seconds left.
+ChallengePonyExpress4_Failed,Whoops. You ran out of time. Try again later.
+ChallengePonyExpress4_Success,You have beaten the time and won a trophy! You can view it in your room back at the farm.
+ChallengePonyExpress5_Intro,Let's see if you can win the silver cup. Beat the time before it counts down and you'll receive a reward!
+ChallengePonyExpress5_Halfway,Half your time has gone! Hurry!
+ChallengePonyExpress5_AlmostFinished,You only have ten seconds left.
+ChallengePonyExpress5_Failed,Whoops. You ran out of time. Try again later.
+ChallengePonyExpress5_Success,You have beaten the time and won a trophy! You can view it in your room back at the farm.
+ChallengePonyExpress6_Intro,Let's see if you can win the gold cup. Beat the time before it counts down and you'll receive a reward!
+ChallengePonyExpress6_Halfway,Half your time has gone! Hurry!
+ChallengePonyExpress6_AlmostFinished,You only have ten seconds left.
+ChallengePonyExpress6_Failed,Whoops. You ran out of time. Try again later.
+ChallengePonyExpress6_Success,"Well done, you've beaten the time! You're the fastest rider in the Forest! You can view your cup back in your room at the farm."
+ChallengePonyExpress7_Intro,Let's see if you can win the bronze cup. Beat the time before it counts down and you'll receive a reward!
+ChallengePonyExpress7_Halfway,Half your time has gone! Hurry!
+ChallengePonyExpress7_AlmostFinished,You only have ten seconds left.
+ChallengePonyExpress7_Failed,Whoops. You ran out of time. Try again later.
+ChallengePonyExpress7_Success,You have beaten the time and won a trophy! You can view it in your room back at the farm.
+ChallengePonyExpress8_Intro,Let's see if you can win the silver cup. Beat the time before it counts down and you'll receive a reward!
+ChallengePonyExpress8_Halfway,Half your time has gone! Hurry!
+ChallengePonyExpress8_AlmostFinished,You only have ten seconds left.
+ChallengePonyExpress8_Failed,Whoops. You ran out of time. Try again later.
+ChallengePonyExpress8_Success,You have beaten the time and won a trophy! You can view it in your room back at the farm.
+ChallengePonyExpress9_Intro,Let's see if you can win the gold cup. Beat the time before it counts down and you'll receive a reward!
+ChallengePonyExpress9_Halfway,Half your time has gone! Hurry!
+ChallengePonyExpress9_AlmostFinished,You only have ten seconds left.
+ChallengePonyExpress9_Failed,Whoops. You ran out of time. Try again later.
+ChallengePonyExpress9_Success,"Well done, you've beaten the time! You're the fastest rider in the Forest! You can view your cup back in your room at the farm."
+ChallengeFruit1_Intro,Collect all the fruit within the time limit. Hurry. You won't have long to get them all!
+ChallengeFruit1_TimeHalfway,Half your time has gone! Hurry!
+ChallengeFruit1_TimeAlmostFinished,You only have ten seconds left.
+ChallengeFruit1_Failed,Whoops. You ran out of time. Try again later.
+ChallengeFruit1_Success,Well done. You've collected all the fruit!
+ChallengeFruit1_HalfCollected,You have collected half the fruit. Keep looking to find the rest.
+ChallengeFruit1_1Remaining,You're almost finished! Only one more piece of fruit to go!
+ChallengeFruit2_Intro,Collect all the fruit within the time limit. Hurry. You won't have long to get them all!
+ChallengeFruit2_TimeHalfway,Half your time has gone! Hurry!
+ChallengeFruit2_TimeAlmostFinished,You only have ten seconds left.
+ChallengeFruit2_Failed,Whoops. You ran out of time. Try again later.
+ChallengeFruit2_Success,Well done. You've collected all the fruit!
+ChallengeFruit2_HalfCollected,You have collected half the fruit. Keep looking to find the rest.
+ChallengeFruit2_1Remaining,You're almost finished! Only one more piece of fruit to go!
+ChallengeFruit3_Intro,Collect all the fruit within the time limit. Hurry. You won't have long to get them all!
+ChallengeFruit3_TimeHalfway,Half your time has gone! Hurry!
+ChallengeFruit3_TimeAlmostFinished,You only have ten seconds left.
+ChallengeFruit3_Failed,Whoops. You ran out of time. Try again later.
+ChallengeFruit3_Success,Well done. You've collected all the fruit!
+ChallengeFruit3_HalfCollected,You have collected half the fruit. Keep looking to find the rest.
+ChallengeFruit3_1Remaining,You're almost finished! Only one more piece of fruit to go!
+ChallengeShells1_Intro,Collect all the shells within the time limit. Hurry. You won't have long to get them all!
+ChallengeShells1_TimeHalfway,Half your time has gone! Hurry!
+ChallengeShells1_TimeAlmostFinished,You only have ten seconds left.
+ChallengeShells1_Failed,Whoops. You ran out of time. Try again later.
+ChallengeShells1_Success,Well done. You've collected all the shells!
+ChallengeShells1_HalfCollected,You have collected half the shells. Keep looking to find the rest.
+ChallengeShells1_1Remaining,That's almost it! You just need to find the last shell.
+ChallengeShells2_Intro,Collect all the shells within the time limit. Hurry. You won't have long to get them all!
+ChallengeShells2_TimeHalfway,Half your time has gone! Hurry!
+ChallengeShells2_TimeAlmostFinished,You only have ten seconds left.
+ChallengeShells2_Failed,Whoops. You ran out of time. Try again later.
+ChallengeShells2_Success,Well done. You've collected all the shells!
+ChallengeShells2_HalfCollected,You have collected half the shells. Keep looking to find the rest.
+ChallengeShells2_1Remaining,You're almost finished! Only one more shell to go then we can go home!
+ChallengeShells3_Intro,Collect all the shells within the time limit. Hurry. You won't have long to get them all!
+ChallengeShells3_TimeHalfway,Half your time has gone! Hurry!
+ChallengeShells3_TimeAlmostFinished,You only have ten seconds left.
+ChallengeShells3_Failed,Whoops. You ran out of time. Try again later.
+ChallengeShells3_Success,Well done. You've collected all the shells!
+ChallengeShells3_HalfCollected,You have collected half the shells. Keep looking to find the rest.
+ChallengeShells3_1Remaining,You're almost finished! Only one more shell to go!
+ChallengeMushroom1_Intro,Collect all the mushrooms within the time limit. Hurry. You won't have long to get them all!
+ChallengeMushroom1_TimeHalfway,Half your time has gone! Hurry!
+ChallengeMushroom1_TimeAlmostFinished,You only have ten seconds left.
+ChallengeMushroom1_Finished,Well done. You've collected all the mushrooms!
+ChallengeMushroom1_Failed,Whoops. You ran out of time. Try again later.
+ChallengeMushroom1_HalfCollected,You have collected half the mushrooms. Keep looking to find the rest.
+ChallengeMushroom1_1Remaining,You're almost finished! Only one more mushroom to go!
+ChallengeMushroom2_Intro,Freyja is going to make her mushroom soup again. Can you collect all the mushrooms for her?
+ChallengeMushroom2_Halfway,Half your time has gone! Hurry!
+ChallengeMushroom2_TimeAlmostFinished,You only have ten seconds left.
+ChallengeMushroom2_Finished,Well done. You've collected all the mushrooms!
+ChallengeMushroom2_Failed,Whoops. You ran out of time. Try again later.
+ChallengeMushroom2_HalfCollected,You have collected half the mushrooms. Keep looking to find the rest.
+ChallengeMushroom2_1Remaining,You're almost finished! Only one more mushroom to go then we can go home!
+ChallengeMushroom3_Intro,Freyja is going to make her mushroom soup again. Can you collect all the mushrooms for her? You might have to go quite deep into the forest!
+ChallengeMushroom3_Halfway,Half your time has gone! Hurry!
+ChallengeMushroom3_TimeAlmostFinished,You only have ten seconds left.
+ChallengeMushroom3_Finished,Congratulations! You found enough mushrooms for the soup. Let's go back to the farm.
+ChallengeMushroom3_Failed,Whoops. You ran out of time. Try again later.
+ChallengeMushroom3_HalfCollected,Well done! You're halfway there. Only a few more to go.
+ChallengeMushroom3_1Remaining,You're almost finished! Only one more mushroom to go then we can go home!
+ChallengeOrienteering1_Intro,Let's look for treasure! The first checkpoint is at the junction of two big roads
+ChallengeOrienteering1_Halfway,Half your time has gone! Hurry!
+ChallengeOrienteering1_AlmostFinished,You only have ten seconds left.
+ChallengeOrienteering1_Failed,Whoops. You ran out of time. Try again later.
+ChallengeOrienteering1_Success,Great! You've found the treasure!  Let's go back to the farm and see what you've found.
+ChallengeOrienteering1_Stage1,The next checkpoint is just in front of a bridge
+ChallengeOrienteering1_Stage2,The last checkpoint is back near the Farm
+ChallengeOrienteering1_Stage3,This page intentionally left blank.
+ChallengeOrienteering2_Intro,Let's look for treasure! The first checkpoint is at the junction of two big roads
+ChallengeOrienteering2_Halfway,Half your time has gone! Hurry!
+ChallengeOrienteering2_AlmostFinished,You only have ten seconds left.
+ChallengeOrienteering2_Failed,Whoops. You ran out of time. Try again later.
+ChallengeOrienteering2_Success,Great! You've found the treasure!  Let's go back to the farm and see what you've found.
+ChallengeOrienteering2_Stage1,The next checkpoint is just in front of a bridge
+ChallengeOrienteering2_Stage2,The last checkpoint is back near the Farm
+ChallengeOrienteering2_Stage3,The next checkpoint is very close!
+ChallengeOrienteering2_Stage4,The last checkpoint is on a long wooden road.
+ChallengeOrienteering2_Stage5,This page intentionally left blank.
+ChallengeOrienteering2_Stage6,This page intentionally left blank.
+ChallengeOrienteering3_Intro,Let's look for treasure! The first checkpoint is at the junction of two big roads
+ChallengeOrienteering3_Halfway,Half your time has gone! Hurry!
+ChallengeOrienteering3_AlmostFinished,You only have ten seconds left.
+ChallengeOrienteering3_Failed,Whoops. You ran out of time. Try again later.
+ChallengeOrienteering3_Success,Great! You've found the treasure!  Let's go back to the farm and see what you've found.
+ChallengeOrienteering3_Stage1,The next checkpoint is just in front of a bridge
+ChallengeOrienteering3_Stage2,The last checkpoint is back near the Farm
+ChallengeOrienteering3_Stage3,The next checkpoint is very close!
+ChallengeOrienteering3_Stage4,The next checkpoint is very close!
+ChallengeOrienteering3_Stage5,The next checkpoint is very close!
+ChallengeOrienteering3_Stage6,The next checkpoint is very close!
+ChallengeOrienteering4_Intro,Let's look for treasure! The first checkpoint is out the front of a big blue and yellow tent
+ChallengeOrienteering4_Halfway,Half your time has gone! Hurry!
+ChallengeOrienteering4_AlmostFinished,You only have ten seconds left.
+ChallengeOrienteering4_Failed,Whoops. You ran out of time. Try again later.
+ChallengeOrienteering4_Success,Great! You've found the treasure!  Let's go back to the farm and see what you've found.
+ChallengeOrienteering4_Stage1,The next checkpoint is on a lookout towards the giant statue of a lady.
+ChallengeOrienteering4_Stage2,The last checkpoint is at the crossroads
+ChallengeOrienteering4_Stage3,This page intentionally left blank.
+ChallengeOrienteering5_Intro,Let's look for treasure! The first checkpoint is on the lookout to the statue.
+ChallengeOrienteering5_Halfway,Half your time has gone! Hurry!
+ChallengeOrienteering5_AlmostFinished,You only have ten seconds left.
+ChallengeOrienteering5_Failed,Whoops. You ran out of time. Try again later.
+ChallengeOrienteering5_Success,Great! You've found the treasure!  Let's go back to the farm and see what you've found.
+ChallengeOrienteering5_Stage1,The next checkpoint is at the crossroads
+ChallengeOrienteering5_Stage2,The next checkpoint is down on the beach.
+ChallengeOrienteering5_Stage3,The next checkpoint is at the top of the tunnel.
+ChallengeOrienteering5_Stage4,The last checkpoint is back down near the beach.
+ChallengeOrienteering5_Stage5,This page intentionally left blank.
+ChallengeOrienteering5_Stage6,This page intentionally left blank.
+ChallengeOrienteering6_Intro,Let's look for treasure! The first checkpoint is in one of the twin tunnels down on the beach.
+ChallengeOrienteering6_Halfway,Half your time has gone! Hurry!
+ChallengeOrienteering6_AlmostFinished,You only have ten seconds left.
+ChallengeOrienteering6_Failed,Whoops. You ran out of time. Try again later.
+ChallengeOrienteering6_Success,Great! You've found the treasure!  Let's go back to the farm and see what you've found.
+ChallengeOrienteering6_Stage1,The next checkpoint is on the road back to the Farm.
+ChallengeOrienteering6_Stage2,The next checkpoint is up near the lighthouse
+ChallengeOrienteering6_Stage3,The next checkpoint is on an island out in the ocean.
+ChallengeOrienteering6_Stage4,The last checkpoint is under the road that runs back to the Farm.
+ChallengeOrienteering6_Stage5,This page intentionally left blank.
+ChallengeOrienteering6_Stage6,This page intentionally left blank.
+ChallengeOrienteering7_Intro,Let's look for treasure! The first checkpoint is beneath the roots of a large tree.
+ChallengeOrienteering7_Halfway,Half your time has gone! Hurry!
+ChallengeOrienteering7_AlmostFinished,You only have ten seconds left.
+ChallengeOrienteering7_Failed,Whoops. You ran out of time. Try again later.
+ChallengeOrienteering7_Success,Great! You've found the treasure!  Let's go back to the farm and see what you've found.
+ChallengeOrienteering7_Stage1,The next checkpoint is at the bottom of a waterfall.
+ChallengeOrienteering7_Stage2,The last checkpoint is in a tunnel up high.
+ChallengeOrienteering7_Stage3,This page intentionally left blank.
+ChallengeOrienteering8_Intro,Let's look for treasure! The first checkpoint is beneath the roots of a large tree.
+ChallengeOrienteering8_Halfway,Half your time has gone! Hurry!
+ChallengeOrienteering8_AlmostFinished,You only have ten seconds left.
+ChallengeOrienteering8_Failed,Whoops. You ran out of time. Try again later.
+ChallengeOrienteering8_Success,Great! You've found the treasure!  Let's go back to the farm and see what you've found.
+ChallengeOrienteering8_Stage1,The next checkpoint is at the bottom of a waterfall.
+ChallengeOrienteering8_Stage2,The next checkpoint is in a tunnel up high.
+ChallengeOrienteering8_Stage3,The next checkpoint is at the feet of a stone horse.
+ChallengeOrienteering8_Stage4,The last checkpoint is on a long wooden road.
+ChallengeOrienteering8_Stage5,This page intentionally left blank.
+ChallengeOrienteering8_Stage6,This page intentionally left blank.
+ChallengeOrienteering9_Intro,Let's look for treasure! The first checkpoint is beneath the roots of a large tree.
+ChallengeOrienteering9_Halfway,Half your time has gone! Hurry!
+ChallengeOrienteering9_AlmostFinished,You only have ten seconds left.
+ChallengeOrienteering9_Failed,Whoops. You ran out of time. Try again later.
+ChallengeOrienteering9_Success,Great! You've found the treasure!  Let's go back to the farm and see what you've found.
+ChallengeOrienteering9_Stage1,The next checkpoint is at the bottom of a waterfall.
+ChallengeOrienteering9_Stage2,The next checkpoint is in a tunnel up high.
+ChallengeOrienteering9_Stage3,The next checkpoint is at the feet of a stone horse.
+ChallengeOrienteering9_Stage4,The next checkpoint is under a fallen tree next to a climbing path
+ChallengeOrienteering9_Stage5,"The next checkpoint is at the end of a dark valley, deep in the forest"
+ChallengeOrienteering9_Stage6,"The last checkpoint is on a wooden bridge, near the entrance to the forest"
+CheckpointPlaceholder_1,Let's look for treasure! The first checkpoint is near the Antique Flowerpot
+CheckpointPlaceholder_2,The next checkpoint is near the Antique Flowerpot
+CheckpointPlaceholder_3,The last checkpoint is near the Antique Flowerpot
+CheckpointPlaceholder_4,Let's look for treasure! The first checkpoint is near the Anvil & Hammer
+CheckpointPlaceholder_5,The next checkpoint is near the Anvil & Hammer
+CheckpointPlaceholder_6,The last checkpoint is near the Anvil & Hammer
+CheckpointPlaceholder_7,Let's look for treasure! The first checkpoint is near Apollo’s Lyre
+CheckpointPlaceholder_8,The next checkpoint is near Apollo’s Lyre
+CheckpointPlaceholder_9,The last checkpoint is near Apollo’s Lyre
+CheckpointPlaceholder_10,Let's look for treasure! The first checkpoint is near Athena’s Chariot
+CheckpointPlaceholder_11,The next checkpoint is near Athena’s Chariot
+CheckpointPlaceholder_12,The last checkpoint is near Athena’s Chariot
+CheckpointPlaceholder_13,Let's look for treasure! The first checkpoint is near the Flying Horseshoe
+CheckpointPlaceholder_14,The next checkpoint is near the Flying Horseshoe
+CheckpointPlaceholder_15,The last checkpoint is near the Flying Horseshoe
+CheckpointPlaceholder_16,Let's look for treasure! The first checkpoint is near the Horseshoe Water Fountain
+CheckpointPlaceholder_17,The next checkpoint is near the Horseshoe Water Fountain
+CheckpointPlaceholder_18,The last checkpoint is near the Horseshoe Water Fountain
+CheckpointPlaceholder_19,Let's look for treasure! The first checkpoint is near the Lawn Gnome
+CheckpointPlaceholder_20,The next checkpoint is near the Lawn Gnome
+CheckpointPlaceholder_21,The last checkpoint is near the Lawn Gnome
+CheckpointPlaceholder_22,Let's look for treasure! The first checkpoint is near the Lilac Gazebo
+CheckpointPlaceholder_23,The next checkpoint is near the Lilac Gazebo
+CheckpointPlaceholder_24,The last checkpoint is near the Lilac Gazebo
+CheckpointPlaceholder_25,Let's look for treasure! The first checkpoint is near the Olympic Statue
+CheckpointPlaceholder_26,The next checkpoint is near the Olympic Statue
+CheckpointPlaceholder_27,The last checkpoint is near the Olympic Statue
+CheckpointPlaceholder_28,Let's look for treasure! The first checkpoint is near Poseidon’s Trident
+CheckpointPlaceholder_29,The next checkpoint is near Poseidon’s Trident
+CheckpointPlaceholder_30,The last checkpoint is near Poseidon’s Trident
+CheckpointPlaceholder_31,Let's look for treasure! The first checkpoint is near the Primrose Lamppost
+CheckpointPlaceholder_32,The next checkpoint is near the Primrose Lamppost
+CheckpointPlaceholder_33,The last checkpoint is near the Primrose Lamppost
+CheckpointPlaceholder_34,Let's look for treasure! The first checkpoint is near the Squirrel Sentinel
+CheckpointPlaceholder_35,The next checkpoint is near the Squirrel Sentinel
+CheckpointPlaceholder_36,The last checkpoint is near the Squirrel Sentinel
+CheckpointPlaceholder_37,Let's look for treasure! The first checkpoint is near the Treasure Key
+CheckpointPlaceholder_38,The next checkpoint is near the Treasure Key
+CheckpointPlaceholder_39,The last checkpoint is near the Treasure Key
+CheckpointPlaceholder_40,Let's look for treasure! The first checkpoint is near the Triton’s Horn
+CheckpointPlaceholder_41,The next checkpoint is near the Triton’s Horn
+CheckpointPlaceholder_42,The last checkpoint is near the Triton’s Horn
+CheckpointPlaceholder_43,Let's look for treasure! The first checkpoint is near the Vulcan’s Horseshoes
+CheckpointPlaceholder_44,The next checkpoint is near the Vulcan’s Horseshoes
+CheckpointPlaceholder_45,The last checkpoint is near the Vulcan’s Horseshoes
+CheckpointPlaceholder_46,Let's look for treasure! The first checkpoint is near the Weathervane
+CheckpointPlaceholder_47,The next checkpoint is near the Weathervane
+CheckpointPlaceholder_48,The last checkpoint is near the Weathervane
+CheckpointPlaceholder_49,Let's look for treasure! The first checkpoint is near the old Willow Tree
+CheckpointPlaceholder_50,The next checkpoint is near the old Willow Tree
+CheckpointPlaceholder_51,The last checkpoint is near the old Willow Tree
+CheckpointPlaceholder_52,Let's look for treasure! The first checkpoint is near the Winged Horse Statue
+CheckpointPlaceholder_53,The next checkpoint is near the Winged Horse Statue
+CheckpointPlaceholder_54,The last checkpoint is near the Winged Horse Statue
+CheckpointPlaceholder_55,Let's look for treasure! The first checkpoint is near the Wishing Well
+CheckpointPlaceholder_56,The next checkpoint is near the Wishing Well
+CheckpointPlaceholder_57,The last checkpoint is near the Wishing Well
+CheckpointPlaceholder_58,Let's look for treasure! The first checkpoint is near the lighthouse
+CheckpointPlaceholder_59,The next checkpoint is near the lighthouse
+CheckpointPlaceholder_60,The last checkpoint is near the lighthouse
+CheckpointPlaceholder_61,Let's look for treasure! The first checkpoint is near one of the giant Statues.
+CheckpointPlaceholder_62,The next checkpoint is near one of the giant Statues.
+CheckpointPlaceholder_63,The last checkpoint is near one of the giant Statues.
+CheckpointPlaceholder_64,Let's look for treasure! The first checkpoint is on one of the islands floating in the sky.
+CheckpointPlaceholder_65,The next checkpoint is on one of the islands floating in the sky.
+CheckpointPlaceholder_66,The last checkpoint is on one of the islands floating in the sky.
+CheckpointPlaceholder_67,"Let's look for treasure! The first checkpoint is near the mill, near the beach."
+CheckpointPlaceholder_68,"The next checkpoint is near the mill, near the beach."
+CheckpointPlaceholder_69,"The last checkpoint is near the mill, near the beach."
+CheckpointPlaceholder_70,Let's look for treasure! The first checkpoint is near a windmill.
+CheckpointPlaceholder_71,The next checkpoint is near a windmill.
+CheckpointPlaceholder_72,The last checkpoint is near a windmill.
+CheckpointPlaceholder_73,Let's look for treasure! The first checkpoint is under a bridge.
+CheckpointPlaceholder_74,The next checkpoint is under a bridge.
+CheckpointPlaceholder_75,The last checkpoint is under a bridge.
+CheckpointPlaceholder_76,Let's look for treasure! The first checkpoint is inside a tunnel.
+CheckpointPlaceholder_77,The next checkpoint is inside a tunnel.
+CheckpointPlaceholder_78,The last checkpoint is inside a tunnel.
