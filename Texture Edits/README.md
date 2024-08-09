@@ -10,4 +10,4 @@ Files to know about include:
 - `Bella Sara\Win32\Models\Textures\BellaHorseTextures` contains the horse (body) and tack textures. Note that this folder also includes unused tack textures (the ones ending in '_0' are the ones used in game)
 - `Bella Sara\Win32\Models\Textures` contains the mane and gate textures
   - Note that whichever texture is used for 'Thunder's' mane will also appear as feathering on 'Thunder's' model and will also be used as 'Jewel's' forelock
-- `Bella Sara\Common\Graphics\Effects` contains the particle effects (bella_effect, fiona_effect, jewe_effect, Petals_effect and thunder_effect).
+- `Bella Sara\Common\Graphics\Effects` contains the particle effects (bella_effect, fiona_effect, jewel_effect, Petals_effect and thunder_effect).
